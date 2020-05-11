@@ -44,7 +44,7 @@ The best model is `Random Foreser Classifier`
 The scores are\
 `accuracy`: 0.88\
 `recall`: 0.9\
-`precision`: 0.90\
+`precision`: 0.9\
 `F1-score`: 0.9
 
 ## Authors
