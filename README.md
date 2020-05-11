@@ -14,7 +14,7 @@ The data can be accessed and read in using this link https://raw.githubuserconte
 
 It is also located in the COVID folder `covid_sym.csv`.
 
-`covid_ML_tranforming.xlsx` is for showing the steps of how we transformed the data bu using `Microsoft Excel` 
+`covid_ML_tranforming.xlsx` is for showing the steps of how we transformed the data by using `Microsoft Excel` 
 
 ### Prerequisites
 
