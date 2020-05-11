@@ -1,0 +1,1491 @@
+﻿age,age_0-9,age_10-19,age_20-29,age_30-39,age_40-49,age_50-59,age_60-69,age_70-79,age_80+,background_diseases_binary,city,confirmed_date,country,date_onset_symptoms,region,severity_illness,severity_level,sex,symptoms,no_symptom,diarrhea,myalgia ,fever,respiratory infection,cough ,fatigue,hypoxia,weakness,chills,septic shock,respiratory failure,sepsis,pneumonia,breathing difficulty,treatment,treatment_binary
+35,0,0,0,1,0,0,0,0,0,1,Snohomish County,43850,united states,43846,Washington,,FALSE,male,cough fever nausea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,1,Snohomish County,43850,united states,43846,Washington,,FALSE,male,cough fever nausea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,1,"Cainta, Rizal",43895,philippines,43886,,deceased,4,male, pneumonia breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+59,0,0,0,0,0,1,0,0,0,1,"Cainta, Rizal",43896,philippines,43888,,deceased,4,female, cough  pneumonia breathing difficulty,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,hospital,1
+86,0,0,0,0,0,0,0,0,1,1,Marikina City,43898,philippines,43891,,deceased,4,male,breathing difficulty organ failure pneumonia respiratory failure septic shock,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,hospital,1
+57,0,0,0,0,0,1,0,0,0,1,Quezon City,43898,philippines,43881,,cured,2,male, fever cough,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+56,0,0,0,0,0,1,0,0,0,1,Manila City,43899,philippines,43890,,deceased,4,male, fever breathing difficulty cough,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,hospital,1
+69,0,0,0,0,0,0,1,0,0,1,San Juan City,43899,philippines,43892,,cured,2,female, rhinorrhoea cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+51,0,0,0,0,0,1,0,0,0,1,San Juan City,43899,philippines,43894,,cured,2,female, dysphagia  rhinorrhoea cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+82,0,0,0,0,0,0,0,0,1,1,Marikina City,43900,philippines,43899,,deceased,4,female, breathing difficulty  cardiogenic shock  kidney failure  pneumonia  respiratory failure  septic shock acute coronary syndrome breathing difficulty,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,hospital,1
+67,0,0,0,0,0,0,1,0,0,1,Makati City,43901,philippines,43890,,deceased,4,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,hospital,1
+88,0,0,0,0,0,0,0,0,1,1,Pasig City,43901,philippines,43889,,deceased,4,female,respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,hospital,1
+54,0,0,0,0,0,1,0,0,0,1,"Marawi City, Lanao Del Sur",43901,philippines,43885,,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,hospital,1
+79,0,0,0,0,0,0,0,1,0,1,Batangas City,43901,philippines,43891,,deceased,4,female,breathing difficulty organ failure pneumonia respiratory failure septic shock,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,hospital,1
+40,0,0,0,0,1,0,0,0,0,1,Pasig City,43902,philippines,43891,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+65,0,0,0,0,0,0,1,0,0,1,"San Ildefonso, Bulacan",43903,philippines,43893,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+35,0,0,0,1,0,0,0,0,0,1,"Cainta, Rizal",43903,philippines,43891,,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,1,Makati City,43903,philippines,43895,,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+76,0,0,0,0,0,0,0,1,0,1,Quezon City,43904,philippines,43886,,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+67,0,0,0,0,0,0,1,0,0,1,"San Fernando City, Pampanga",43903,philippines,43897,,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+64,0,0,0,0,0,0,1,0,0,1,"Lemery, Batangas",43904,philippines,43895,,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+65,0,0,0,0,0,0,1,0,0,1,Quezon City,43905,philippines,43896,,deceased,4,male,gastrointestinal bleeding pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+76,0,0,0,0,0,0,0,1,0,1,"Cainta, Rizal",43905,philippines,43892,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+67,0,0,0,0,0,0,1,0,0,1,Quezon City,43905,philippines,43895,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+21,0,0,1,0,0,0,0,0,0,1,"Pantukan, Compostela Valley",43905,philippines,43893,,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+73,0,0,0,0,0,0,0,1,0,1,Quezon City,43906,philippines,43901,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+86,0,0,0,0,0,0,0,0,1,1,San Juan City,43906,philippines,,,deceased,4,female,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,hospital,1
+74,0,0,0,0,0,0,0,1,0,1,Manila City,43906,philippines,,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+34,0,0,0,1,0,0,0,0,0,1,Quezon City,43908,philippines,,,deceased,4,male,acute coronary syndrome breathing difficulty respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,hospital,1
+58,0,0,0,0,0,1,0,0,0,1,"Marawi City, Lanao Del Sur",43908,philippines,,,deceased,4,male,acute coronary syndrome breathing difficulty respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,hospital,1
+73,0,0,0,0,0,0,0,1,0,1,San Juan City,43908,philippines,,,deceased,4,male,cardiac arrest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+71,0,0,0,0,0,0,0,1,0,1,Quezon City,43908,philippines,,,deceased,4,male,cardiac arrhythmia hypertension pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,hospital,1
+69,0,0,0,0,0,0,1,0,0,1,Quezon City,43910,philippines,,,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,hospital,1
+76,0,0,0,0,0,0,0,1,0,1,"Bacoor City, Cavite",,philippines,,,deceased,4,male,heart attack heart failure kidney failure organ failure pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+71,0,0,0,0,0,0,0,1,0,1,Quezon City,43910,philippines,,,deceased,4,male,azotemia kidney failure pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,hospital,1
+72,0,0,0,0,0,0,0,1,0,1,San Juan City,,philippines,,,deceased,4,female,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,hospital,1
+73,0,0,0,0,0,0,0,1,0,1,For validation,43910,philippines,,,deceased,4,male,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,hospital,1
+57,0,0,0,0,0,1,0,0,0,1,Mandaluyong City,,philippines,,,deceased,4,male,azotemia kidney failure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+89,0,0,0,0,0,0,0,0,1,1,"San Ildefonso, Bulacan",43911,philippines,,,deceased,4,male,electrolyte disorders heart attack pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,hospital,1
+67,0,0,0,0,0,0,1,0,0,1,For validation,43911,philippines,,,deceased,4,female,respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hospital,1
+56,0,0,0,0,0,1,0,0,0,1,Quezon City,43911,philippines,,,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,hospital,1
+46,0,0,0,0,1,0,0,0,0,1,"Antipolo City, Rizal",43911,philippines,,,deceased,4,male,pneumonia respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,hospital,1
+57,0,0,0,0,0,1,0,0,0,1,Caloocan City,43911,philippines,,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+46,0,0,0,0,1,0,0,0,0,1,"Cabuyao City, Laguna",43911,philippines,,,deceased,4,male,acute coronary syndrome heart attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hospital,1
+74,0,0,0,0,0,0,0,1,0,1,Quezon City,43911,philippines,,,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+65,0,0,0,0,0,0,1,0,0,1,Quezon City,43911,philippines,,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+56,0,0,0,0,0,1,0,0,0,1,ParaÃ±aque City,43911,philippines,,,deceased,4,male,acute coronary syndrome breathing difficulty pneumonia respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,hospital,1
+56,0,0,0,0,0,1,0,0,0,1,San Juan City,,philippines,,,deceased,4,male,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,hospital,1
+63,0,0,0,0,0,0,1,0,0,1,Muntinlupa City,,philippines,,,deceased,4,male,pneumonia respiratory failure sepsis,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,hospital,1
+78,0,0,0,0,0,0,0,1,0,1,ParaÃ±aque City,43911,philippines,,,deceased,4,male,breathing difficulty pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,hospital,1
+75,0,0,0,0,0,0,0,1,0,1,For validation,43912,philippines,,,deceased,4,female,pneumonia respiratory failure sepsis,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,hospital,1
+62,0,0,0,0,0,0,1,0,0,1,Manila City,43913,philippines,,,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+57,0,0,0,0,0,1,0,0,0,1,Manila City,43912,philippines,,,deceased,4,male,acute coronary syndrome cardiogenic shock heart failure kidney failure organ failure pneumonia respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,hospital,1
+83,0,0,0,0,0,0,0,0,1,1,"Naic, Cavite",43912,philippines,,,deceased,4,female,acute coronary syndrome heart attack pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+69,0,0,0,0,0,0,1,0,0,1,Pasig City,43914,philippines,,,deceased,4,female,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+72,0,0,0,0,0,0,0,1,0,1,Muntinlupa City,43913,philippines,,,deceased,4,female,breathing difficulty pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,hospital,1
+87,0,0,0,0,0,0,0,0,1,1,"Lambayong, Sultan Kudarat",43914,philippines,,,deceased,4,male,pneumonia respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,hospital,1
+56,0,0,0,0,0,1,0,0,0,1,"San Fernando City, Pampanga",43915,philippines,,,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,hospital,1
+75,0,0,0,0,0,0,0,1,0,1,Quezon City,43915,philippines,,,deceased,4,male,acute coronary syndrome kidney failure pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,hospital,1
+60,0,0,0,0,0,0,1,0,0,0,Yokohama,43879,japan,43864,Kanagawa Prefecture,,FALSE,male,fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43871,japan,43869,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Haneda Airport,43869,japan,43868,Tokyo,,FALSE,male,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43876,japan,43863,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43879,japan,43870,Tokyo,,FALSE,male,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43879,japan,43866,Tokyo,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43879,japan,43868,Tokyo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Yuasa-cho,43876,japan,43925,Wakayama Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Yuasa-cho,43876,japan,43868,Wakayama Prefecture,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Yuasa-cho,43876,japan,,Wakayama Prefecture,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Kunming City,43871,china,43858,Yunnan,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Wenshan Zhuang and Miao Autonomous Prefecture,43871,china,,Yunnan,,FALSE,female,abdominal pain respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Dali Prefecture,43871,china,43851,Yunnan,,FALSE,male,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Honghe Prefecture,43874,china,,Yunnan,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43865,japan,43855,,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,,43870,malaysia,43864,Selangor,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Kuala Lumpur,43874,malaysia,43873,Wilayah Persekutuan Kuala Lumpur,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43863,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43861,Wakayama Prefecture,,FALSE,male,abdominal pain diarrhea fever myalgia,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43859,Tokyo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,,43876,thailand,,,,FALSE,female,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43878,,43858,Taiwan,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43855,china,43852,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+48,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43855,china,43849,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Ma'anshan City,43855,china,43848,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Kumamoto City,43882,japan,43879,Kumamoto,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kumamoto City,43883,japan,,Kumamoto,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43855,china,43852,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43882,japan,43877,Ishikawa,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+0s,0,0,0,0,0,0,0,0,1,0,,43882,japan,43869,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Nakafurano,43882,japan,43876,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Nakafurano,43882,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Chitose,43882,japan,43877,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Ma'anshan City,43856,china,43848,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43882,japan,43857,Kanagawa Prefecture,,FALSE,male,anorexia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43856,china,43852,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43856,china,43849,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Chiba City,43883,japan,43873,Chiba Prefecture,,FALSE,female,cough fever nausea pneumonia,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Wakayama City,43883,japan,,Wakayama Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Hakodate City,43883,japan,43871,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+10s,0,0,0,0,0,0,0,0,1,0,Tomakomai City,43883,japan,43867,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Tomakomai City,43883,japan,43867,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Nemuro City,43883,japan,43876,Hokkaido,,FALSE,female,headache myalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kitami City,43883,japan,43878,Hokkaido,,FALSE,male,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+70s,0,0,0,0,0,0,0,0,1,0,Asahikawa City,43883,japan,43877,Hokkaido,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ebetsu,43883,japan,43874,Hokkaido,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43883,japan,,Kanagawa Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43883,japan,43877,Chiba Prefecture,,FALSE,female,breathing difficulty fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43883,japan,43873,Tokyo,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+96,0,0,0,0,0,0,0,0,1,0,Tin Hau,43883,china,43874,Hong Kong,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43883,japan,43873,Chiba Prefecture,,FALSE,female,nausea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+10,0,1,0,0,0,0,0,0,0,0,Fangchenggang City,43870,china,43868,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43864,china,43855,Guangxi,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Fangchenggang City,43864,china,43846,Guangxi,,FALSE,female,chest distress fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43858,china,43852,Guangxi,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Fangchenggang City,43858,china,43852,Guangxi,,FALSE,female,cough fever nasal congestion rhinorrhoea sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Biei Town,43884,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43884,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43884,japan,43879,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20,0,0,1,0,0,0,0,0,0,0,,43882,,43858,Taiwan,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43882,,,Taiwan,,FALSE,female,breathing difficulty esophageal reflux no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+28,0,0,1,0,0,0,0,0,0,0,Jincheng City,43879,china,43879,Shanxi,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+1.75,1,0,0,0,0,0,0,0,0,0,Lanzhou City,43861,china,43858,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,"Chengguan District, Lanzhou City",43877,china,43868,Gansu,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,"Qilihe District, Lanzhou City",43860,china,43855,Gansu,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,"Chengguan District, Lanzhou City",43860,china,43846,Gansu,,FALSE,male,cough myalgia rhinorrhoea,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Seville,43887,spain,,Andalusia,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Barcelona,43886,spain,,Catalonia,,FALSE,female,fever myalgia nasal congestion sore throat weakness,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43885,,43867,Taiwan,,FALSE,female,pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43884,,43861,Taiwan,,FALSE,male,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,,43887,germany,43881,North Rhine-Westphalia,,FALSE,male,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43856,china,43853,Guangxi,,FALSE,female,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+21,0,0,1,0,0,0,0,0,0,0,Hong Kong,43888,china,43873,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Hong Kong,43888,china,43878,Hong Kong,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+80,0,0,0,0,0,0,0,0,1,0,Hong Kong,43886,china,43886,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Hong Kong,43885,china,43877,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Hong Kong,43885,china,43881,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Hong Kong,43885,china,43878,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Hong Kong,43885,china,43873,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43883,Chiba Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43883,Chiba Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43884,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43878,Hokkaido,,FALSE,male,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43880,Hokkaido,,FALSE,female,fever nasal congestion sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43887,japan,,Hokkaido,,FALSE,male,fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+,1,0,0,0,0,0,0,0,0,0,Hakodate,43887,japan,43877,Hokkaido,,FALSE,,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Shinhidaka,43887,japan,43877,Hokkaido,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Shinhidaka,43887,japan,43878,Hokkaido,,FALSE,female,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43885,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Atsugi,43887,japan,43887,Kanagawa Prefecture,,FALSE,male,anorexia cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43862,Osaka,,FALSE,female,cough myalgia pleuritic chest pain sore throat,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43883,Tokyo,,FALSE,male,breathing difficulty cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43874,Tokyo,,FALSE,male,breathing difficulty cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43875,Tokyo,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43885,Aichi Prefecture,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43886,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43885,Aichi Prefecture,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43884,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43885,Aichi Prefecture,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43875,Gifu,,FALSE,male,fever headache myalgia pneumonia toothache,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43884,Gifu,,FALSE,female,chills sore throat,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43877,Ishikawa,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43871,Tokyo,,FALSE,female,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43881,Osaka,,FALSE,male,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43886,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43886,Hokkaido,,FALSE,male,cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Okhotsk,43888,japan,43878,Hokkaido,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Okhotsk,43888,japan,43877,Hokkaido,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43888,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43888,japan,43876,Hokkaido,,FALSE,male,cough fever sore throat vomiting,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Takikawa,43888,japan,43883,Hokkaido,,FALSE,male,fever joint pain,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43888,japan,43882,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Okhotsk,43888,japan,43885,Hokkaido,,FALSE,male,fever headache joint pain myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Tokachi,43888,japan,43882,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Biei Town,43888,japan,43885,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Hiyama,43888,japan,43881,Hokkaido,,FALSE,male,cough fever joint pain,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Hiyama,43888,japan,43883,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Yakumo,43888,japan,43883,Hokkaido,,FALSE,male,fever myalgia sore throat,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Kikonai,43888,japan,43885,Hokkaido,,FALSE,female,cough sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43888,japan,43887,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43888,japan,43887,Aichi Prefecture,,FALSE,male,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Tongchuan City,43856,china,43853,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Tongchuan City,43856,china,,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Hanzhong City,43856,china,43848,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+,1,0,0,0,0,0,0,0,0,0,Lagos,43888,nigeria,,Lagos,asymptomatic,0,,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Daxing District,43851,china,43838,Beijing,cured,2,female,fatigue fever headache,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Wushan County,43851,china,43845,Chongqing,cured,2,female,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+58,0,0,0,0,0,1,0,0,0,0,,43856,china,,Macau,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,,43856,china,43852,Macau,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+21,0,0,1,0,0,0,0,0,0,0,,43856,china,43855,Macau,,FALSE,female,dizziness myalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Xishuangbanna Prefecture,43854,china,43848,Yunnan,cured,2,female,fever rhinorrhoea weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43856,,43852,Taiwan,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Wenzhou City,43851,china,43834,Zhejiang,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Uppsala,43888,sweden,,,,FALSE,female,respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43888,japan,43879,Kanagawa Prefecture,,FALSE,female,chills fatigue headache,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43888,japan,43884,Kanagawa Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Shizuoka City,43888,japan,43881,Shizuoka,,FALSE,male,cough sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Setana,43889,japan,43882,Hokkaido,,FALSE,female,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Chitose,43889,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Fukagawa,43889,japan,43886,Hokkaido,,FALSE,male,difficulty walking fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kamikawa,43889,japan,43880,Hokkaido,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nakafurano,43889,japan,43882,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kitami City,43889,japan,43879,Hokkaido,,FALSE,male,chills fever myalgia,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kitami City,43889,japan,43880,Hokkaido,,FALSE,female,breathing difficulty cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43889,japan,43873,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43889,japan,43881,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43889,japan,43881,Hokkaido,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43889,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43889,japan,43888,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43889,japan,43880,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,"Jose Joaquin de Olmedo Airport, Guayaquil",43890,ecuador,,Guayas,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,,43887,,,Taiwan,,FALSE,female,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,0,Hong Kong,43856,china,43851,Hong Kong,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Hong Kong,43856,china,43854,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Sihanoukville City,43857,cambodia,43856,Sihanoukville,,FALSE,male,fever rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,Narita Airport,43854,japan,43844,Tokyo,cured,2,male,fever pneumonia sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Gorinchem,43891,netherlands,,,,FALSE,female,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Toronto,43891,canada,,Ontario,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Moscow,43892,russia,,Moscow City,,FALSE,male,respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Boston,43862,united states,43858,Massachusetts,,FALSE,male,rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Boston,43862,united states,43858,Massachusetts,,FALSE,male,rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30,0,0,0,1,0,0,0,0,0,0,,43845,japan,43833,Tokyo,cured,2,male,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43892,belgium,,Flanders,,FALSE,,cough fever sneezing,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43892,belgium,,Brussels,,FALSE,,cough fever sneezing,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43892,belgium,,Brussels,,FALSE,,cough fever sneezing,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43892,belgium,,Brussels,,FALSE,,cough fever sneezing,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43892,belgium,,Brussels,,FALSE,,cough fever sneezing,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43892,belgium,,Brussels,,FALSE,,cough fever sneezing,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Madison,43866,united states,,Wisconsin,,FALSE,,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+,1,0,0,0,0,0,0,0,0,0,Madison,43866,united states,,Wisconsin,,FALSE,,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+55,0,0,0,0,0,1,0,0,0,0,Usti nad Labem,43892,czech republic,,Usti nad Labem,,FALSE,female,chills cough fever joint pain myalgia,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Kathmandu,43854,nepal,43839,,cured,2,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+66,0,0,0,0,0,0,1,0,0,0,Singapore General Hospital,43853,singapore,43851,,cured,2,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43855,malaysia,,Johor,cured,2,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Bangkok,,thailand,43850,Bangkok Metropolis,cured,2,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Timisoara,43893,romania,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Loerrach,43893,germany,,Baden-Wurttemberg,,FALSE,,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Xishuangbanna Prefecture,43857,china,43853,Yunnan,cured,2,female,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Hong Kong,43861,china,43858,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+75,0,0,0,0,0,0,0,1,0,0,Hong Kong,43861,china,43852,Hong Kong,,FALSE,male,breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+,1,0,0,0,0,0,0,0,0,0,Rottweil District,43886,germany,,Baden-Wurttemberg,,FALSE,,fever myalgia nasal congestion sore throat weakness,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43894,iceland,,,,FALSE,,bone pain cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Mannheim,43894,germany,,Baden-Wurttemberg,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Vorpommern-Greifswald,43893,germany,,Mecklenburg-Vorpommern,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Vorpommern-Rugen,43893,germany,,Mecklenburg-Vorpommern,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,,43895,south africa,43893,Kwazulu-Natal,,FALSE,male,cough fever headache myalgia sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+76,0,0,0,0,0,0,0,1,0,0,Thimphu,43866,bhutan,43894,,,FALSE,male,breathing difficulty cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+44,0,0,0,0,1,0,0,0,0,0,Bengbu City,43857,china,43854,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Ankang City,43857,china,43852,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+1,1,0,0,0,0,0,0,0,0,0,"Huating County, Pingliang City",43869,china,43860,Gansu,cured,2,female,diarrhea,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+0.25,1,0,0,0,0,0,0,0,0,0,Haikou City,43857,china,43856,Hainan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,1,,43857,,43855,Taiwan,,FALSE,female,cough fever myalgia rhinorrhoea sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Pyeongtaek,43857,south korea,43851,Gyeonggi,,FALSE,male,fever myalgia pneumonia,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Huainan City,43856,china,43852,Anhui,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30,0,0,0,1,0,0,0,0,0,0,Paris,43854,france,43853,Ile-de-France,cured,2,female,chills cough fatigue fever,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,Paris,43854,france,43849,Ile-de-France,cured,2,male,chills conjunctivitis cough fever,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Toronto,43884,canada,,Ontario,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Toronto,43887,canada,,Ontario,,FALSE,female,cough fever myalgia sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Richmond Hill,43890,canada,,Ontario,,FALSE,female,breathing difficulty cough headache rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ajax,43890,canada,,Ontario,,FALSE,female,chills cough myalgia,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Ajax,43890,canada,,Ontario,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,,43895,brazil,43883,Espirito Santo,,FALSE,female,diarrhea fever myalgia rhinorrhoea,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,1,East Coast Demerara,43901,guyana,,,deceased,4,female,hypertension kidney failure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,Cainta,43897,philippines,,Rizal Province,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Rio de Janeiro,43897,brazil,43895,Rio de Janeiro,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Bucharest,43897,romania,,,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Zigong City,43857,china,43856,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,Luzhou City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Mianyang City,43857,china,43853,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+24,0,0,1,0,0,0,0,0,0,0,Suining City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Neijiang City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Neijiang City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Leshan City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Nanchong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Nanchong City,43857,china,43854,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Guang'an City,43857,china,43854,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Ya'an City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Ganzi Prefecture,43857,china,43854,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Liangshan Prefecture,43857,china,43854,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Melbourne,43900,australia,43897,Victoria,,FALSE,male,cough fatigue,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43900,mongolia,,,,FALSE,,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Buzau,43899,romania,,,,FALSE,female,discomfort fever nausea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Bucharest,43899,romania,,,,FALSE,male,aggressive pulmonary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Ankang City,43864,china,,Shaanxi,good,1,male,lesions on chest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43858,japan,43844,Nara Prefecture,,FALSE,male,chills cough joint pain,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43858,japan,43856,Hokkaido,,FALSE,female,cough fever pneumonia,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Arlington County,43898,united states,,Virginia,,FALSE,,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+76,0,0,0,0,0,0,0,1,0,0,Hong Kong,43897,china,43853,Hong Kong,,FALSE,male,diarrhea,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Hong Kong,43898,china,43896,Hong Kong,,FALSE,male,fatigue headache rhinorrhoea sore throat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Hong Kong,43899,china,43897,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Shiriuchi,43883,japan,43864,Hokkaido,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Arlington County,43898,united states,,Virginia,,FALSE,,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,Spotsylvania County,43899,united states,,Virginia,,FALSE,,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+36,0,0,0,1,0,0,0,0,0,0,Xi'an City,43858,china,43855,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Baoji City,43858,china,43854,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Xi'an City,43858,china,43851,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Baoji City,43858,china,43848,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Baoji City,43858,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Weinan City,43858,china,43850,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Weinan City,43858,china,43850,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Shangluo City,43858,china,43855,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Hanzhong City,43858,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Xi'an City,43858,china,43855,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Ankang City,43858,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Spotsylvania County,43899,united states,,Virginia,,FALSE,,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+27,0,0,1,0,0,0,0,0,0,0,"Tianzhu County, Qiandongnan Prefecture",43869,china,43866,Guizhou,good,1,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Kochi,43890,japan,43874,Kochi,,FALSE,female,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Niigata,43890,japan,43886,Niigata,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Sendai,43890,japan,43889,Miyagi,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+90s,0,0,0,0,0,0,0,0,1,0,Tomakomai City,43890,japan,43881,Hokkaido,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43890,japan,43882,Hokkaido,,FALSE,female,cough joint pain myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43890,japan,43880,Hokkaido,,FALSE,female,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43890,japan,43884,Aichi Prefecture,,FALSE,female,cough fever vomiting,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,1,Kitakyshu,43891,japan,43880,Fukuoka,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43886,Kanagawa Prefecture,,FALSE,female,breathing difficulty fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43889,japan,43875,Kanagawa Prefecture,,FALSE,female,headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Funabashi,43891,japan,43883,Chiba Prefecture,,FALSE,male,anorexia cough diarrhea fever nausea,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Ebetsu,43891,japan,43885,Hokkaido,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kitami City,43891,japan,43881,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43891,japan,43873,Tokyo,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43891,japan,43887,Tokyo,,FALSE,male,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara,43891,japan,43880,Kanagawa Prefecture,,FALSE,male,fever joint pain myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara,43891,japan,43880,Kanagawa Prefecture,,FALSE,female,fever joint pain myalgia sputum,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43891,japan,43886,Kochi,,FALSE,female,cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43891,japan,43885,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43891,japan,43887,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43891,japan,43888,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Nishinomiya,43891,japan,43884,Hyogo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Oita,43893,japan,43884,Oita,,FALSE,female,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kobe,43893,japan,43888,Hyogo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kobe,43893,japan,43888,Hyogo,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43893,japan,43890,Hokkaido,,FALSE,female,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43893,japan,43888,Hokkaido,,FALSE,female,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Niigata,43893,japan,43883,Niigata,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Niigata,43893,japan,43884,Niigata,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Niigata,43893,japan,43885,Niigata,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kyoto,43893,japan,43882,Kyoto,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43893,japan,43884,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43893,japan,43884,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43893,japan,43887,Osaka,,FALSE,female,backache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Mikawa,43893,japan,43885,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Mikawa,43893,japan,43889,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Owari,43893,japan,43889,Aichi Prefecture,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Owari,43893,japan,43887,Aichi Prefecture,,FALSE,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kochi,43894,japan,43893,Kochi,,FALSE,female,cough sputum,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kochi,43894,japan,43886,Kochi,,FALSE,male,fever rhinorrhoea sneezing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kochi,43894,japan,43886,Kochi,,FALSE,female,fever rhinorrhoea sneezing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Aki,43894,japan,43885,Kochi,,FALSE,male,rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Matsuyama,43894,japan,43886,Ehime,,FALSE,female,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43891,Miyazaki,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Hokkaido,,FALSE,male,chills diarrhea fever,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Asahikawa,43894,japan,43883,Hokkaido,,FALSE,male,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Asahikawa,43894,japan,43889,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43892,Tokyo,,FALSE,female,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Tokyo,,FALSE,female,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Tokyo,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43889,Tokyo,,FALSE,female,fever joint pain,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Ichikawa,43894,japan,43877,Chiba Prefecture,,FALSE,female,cough rhinorrhoea sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43891,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43893,Aichi Prefecture,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43893,Aichi Prefecture,,FALSE,male,fever sputum,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43891,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43893,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kyoto,43894,japan,43879,Kyoto,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kyoto,43894,japan,43889,Kyoto,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43884,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43881,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43894,Osaka,,FALSE,female,sneezing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43884,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43889,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43878,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Kyoto,43895,japan,43889,Kyoto,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43883,Hyogo,,FALSE,female,fatigue sore throat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43884,Yamaguchi,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43883,Hokkaido,,FALSE,male,cough headache myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara,43895,japan,43890,Kanagawa Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43889,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43884,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43895,japan,43886,Tokyo,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43895,japan,43886,Tokyo,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43888,Tokyo,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43889,Tokyo,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43889,Tokyo,,FALSE,female,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+90s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43892,Tokyo,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43871,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43891,Tokyo,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43886,Wakayama Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Mikawa,43895,japan,43891,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Owari,43895,japan,43889,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43887,Aichi Prefecture,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43883,Aichi Prefecture,,FALSE,male,fever myalgia pneumonia,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43893,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43886,Togichi,,FALSE,female,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43896,japan,43889,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43896,japan,43891,Hokkaido,,FALSE,female,cough headache myalgia sore throat,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43896,japan,43887,Hokkaido,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Ishikari,43896,japan,43889,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43889,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43894,Hokkaido,,FALSE,male,myalgia sputum,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43884,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43881,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43886,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+90s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43887,Tokyo,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43884,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ichikawa,43896,japan,43885,Chiba Prefecture,,FALSE,male,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ichikawa,43896,japan,43885,Chiba Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Okayama,43896,japan,43891,Kochi,,FALSE,male,anorexia fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43894,Kochi,,FALSE,male,breathing difficulty cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43884,Nagano,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,0,Quarry Bay,43874,china,43861,Hong Kong,good,1,female,chills cough fever,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Wan Chai,43874,china,43869,Hong Kong,good,1,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Hong Kong,43852,china,43851,Hong Kong,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,,43858,,43855,Taiwan,,FALSE,male,myalgia rhinorrhoea,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0
+48,0,0,0,0,1,0,0,0,0,0,Bordeaux,43854,france,43853,Nouvelle-Aquitaine,,FALSE,male,fever myalgia nasal congestion sore throat weakness,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,0,San Juan,43904,puerto rico,,San Juan,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43875,japan,43861,Hokkaido,critical,3,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Lu'an City,43854,china,,Anhui,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Fuyang City,43852,china,43851,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,Huainan City,43856,china,43849,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Lu'an City,43853,china,,Anhui,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Chizhou City,43853,china,43852,Anhui,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Bengbu City,43857,china,43851,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Changping District,43852,china,,Beijing,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Shijingshan District,43852,china,43849,Beijing,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Shijingshan District,43853,china,43849,Beijing,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Xicheng District,43852,china,43850,Beijing,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,,43852,china,,Beijing,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,1,Seoul,43860,south korea,43856,Seoul,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,Hong Kong,43858,china,43855,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Hong Kong,43858,china,43855,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43861,russia,,Transbaikalia,,FALSE,,fever respiratory infection,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43861,russia,,Tyumen,,FALSE,,fever respiratory infection,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Lanzhou City,43853,china,43848,Gansu,,FALSE,male,discomfort fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,Foshan City,43852,china,43840,Guangdong,,FALSE,male,cough dizziness,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Lanzhou City,43861,china,,Gansu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Shenzhen City,43849,china,43834,Guangdong,,FALSE,male,cough fatigue fever weakness,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Shenzhen City,43851,china,43833,Guangdong,,FALSE,female,cough fever weakness,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Shenzhen City,43851,china,43831,Guangdong,,FALSE,male,cough diarrhea fever rhinorrhoea sneezing,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+63,0,0,0,0,0,0,1,0,0,0,Shenzhen City,43851,china,43838,Guangdong,,FALSE,female,cough fever pleural effusion weakness,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Shenzhen City,43851,china,43832,Guangdong,,FALSE,female,diarrhea fever myalgia nasal congestion pleuritic chest pain sore throat,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Zhuhai City,43851,china,43843,Guangdong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,"Xigu District, Lanzhou City",43863,china,43858,Gansu,deceased,4,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+63,0,0,0,0,0,0,1,0,0,0,Beihai City,43852,china,43844,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Beihai City,43852,china,43839,Guangxi,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Fangchenggang City,43854,china,43853,Guangxi,cured,2,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Liuzhou City,43852,china,43851,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Sao Paulo,43887,brazil,43885,Sao Paulo,cured,2,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Sao Paulo,43889,brazil,43888,Sao Paulo,cured,2,male,cough fever headache myalgia sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+13,0,1,0,0,0,0,0,0,0,0,Sao Paulo,43894,brazil,,Sao Paulo,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Barra Mansa,43895,brazil,,Rio de Janeiro,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Feira de Santana,43897,brazil,,Bahia,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Rio de Janeiro,43897,brazil,43895,Rio de Janeiro,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Divinopolis,43898,brazil,43895,Minas Gerais,,FALSE,female,discomfort rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Maceio,43898,brazil,,Alagoas,,FALSE,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Niteroi,43899,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Campo Bom,43900,brazil,43890,Rio Grande do Sul,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,"Recife, Boa Viagem",43902,brazil,,Pernambuco,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+72,0,0,0,0,0,0,0,1,0,0,"Recife, Boa Viagem",43902,brazil,,Pernambuco,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+,1,0,0,0,0,0,0,0,0,0,Rio de Janeiro,43902,brazil,,Rio de Janeiro,,FALSE,,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Porto Alegre,43901,brazil,43897,Rio Grande do Sul,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+19,0,1,0,0,0,0,0,0,0,0,Porto Alegre,43902,brazil,43890,Rio Grande do Sul,,FALSE,female,cough fever headache myalgia sore throat weakness,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,"Ferraz de Vasconcelos, Vila Solar",43902,brazil,43899,Sao Paulo,,FALSE,female,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+38,0,0,0,1,0,0,0,0,0,0,Ipatinga,43902,brazil,43890,Minas Gerais,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Rio Preto,43903,brazil,,Sao Paulo,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Wuzhou City,43852,china,43850,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,Joinville,43903,brazil,43898,Santa Catarina,,FALSE,male,fever headache myalgia sore throat,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Rio Preto,43907,brazil,43902,Sao Paulo,,FALSE,male,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Porto Alegre,43903,brazil,,Rio Grande do Sul,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Anapolis,43907,brazil,,Goias,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Vila Velha,43902,brazil,,Espirito Santo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Guilin City,43854,china,43849,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Niteroi,43908,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Guilin City,43854,china,43850,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,Beihai City,43854,china,43849,Guangxi,,FALSE,female,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+20,0,0,1,0,0,0,0,0,0,0,Beihai City,43854,china,43852,Guangxi,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Beihai City,43854,china,43852,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Baise City,43854,china,43849,Guangxi,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Hechi City,43854,china,43851,Guangxi,,FALSE,female,chest distress cough myalgia sputum,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Gimpo Airport,43854,south korea,43840,,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+21,0,0,1,0,0,0,0,0,0,0,Biel,43889,switzerland,43886,Bern,,FALSE,female,cough dry throat sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+22,0,0,1,0,0,0,0,0,0,0,Interlaken,43893,switzerland,43886,Bern,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,18+,43894,switzerland,,Sankt Gallen,,FALSE,female,rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Hechi City,43854,china,43849,Guangxi,,FALSE,male,cough headache,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+2,1,0,0,0,0,0,0,0,0,0,Hechi City,43854,china,43852,Guangxi,,FALSE,female,fever sneezing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43854,china,43845,Guangxi,,FALSE,male,cough muscular stiffness weakness,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Hong Kong,43862,china,43849,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Yulin City,43854,china,43851,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20,0,0,1,0,0,0,0,0,0,0,"Guiding County, Qiannan Prefecture",43852,china,43848,Guizhou,,FALSE,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Guiyang City,43852,china,43844,Guizhou,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,"Lujiang County, Hefei City",43861,china,43858,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,"Yaohai District, Hefei City",43861,china,43850,Anhui,,FALSE,male,discomfort fever pharyngalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Tongren City,43852,china,43844,Guizhou,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,"Lujiang County, Hefei City",43861,china,43854,Anhui,,FALSE,female,chills fever headache,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,"Feidong County, Hefei City",43861,china,43855,Anhui,,FALSE,female,fever sore throat sputum,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Changfeng County, Hefei City",43861,china,43858,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Hefei City,43861,china,43854,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Hefei City,43861,china,43860,Anhui,,FALSE,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,Shijiazhuang City,43853,china,43849,Hebei,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Harbin City,43853,china,43852,Heilongjiang,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Mudanjiang City,43853,china,,Heilongjiang,,FALSE,male,cough fatigue fever sputum,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Zhengzhou City,43851,china,43828,Henan,,FALSE,male,breathing difficulty chest distress fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+31,0,0,0,1,0,0,0,0,0,0,"Chengguan District, Lanzhou City",43862,china,43849,Gansu,,FALSE,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,"Chengguan District, Lanzhou City",43862,china,43854,Gansu,,FALSE,female,weakness,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,"Weiyuan County, Dingxi City",43862,china,43854,Gansu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Gannan Prefecture,43862,china,43858,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,Hong Kong,43852,china,43848,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Hong Kong,43855,china,,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,Changsha City,43851,china,,Hunan,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,"Dalad Banner, Ordos City",43862,china,43859,Inner Mongolia,,FALSE,male,chest distress fever nausea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Suzhou City,43852,china,43840,Jiangsu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,"Dongxiang County, Fuzhou City",43851,china,,Jiangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Ganzhou City,43854,china,43851,Jiangxi,,FALSE,male,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,Ganzhou City,43854,china,43852,Jiangxi,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Seoul,43860,south korea,43856,Seoul,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Gunsan,43861,south korea,43851,,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43852,Kanagawa Prefecture,deceased,4,female,anorexia fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43861,japan,43850,Chiba Prefecture,,FALSE,female,cough rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43861,japan,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43861,japan,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43862,japan,,,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43862,japan,43856,,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43862,japan,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Changi Airport,43861,singapore,43860,,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80,0,0,0,0,0,0,0,0,1,0,New Territories,43862,china,43849,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Changchun City,43853,china,43849,Jilin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Dalian City,43852,china,43841,Liaoning,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Shenyang City,43853,china,43846,Liaoning,,FALSE,female,pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Chaoyang City,43853,china,43849,Liaoning,,FALSE,male,myalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Landmark Hotel,43851,china,43842,Macau,,FALSE,female,cough sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Zhongwei City,43853,china,43851,Ningxia,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Weihai City,43852,china,43850,Shandong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Linyi City,43852,china,43851,Shandong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Linyi City,43852,china,43851,Shandong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+26,0,0,1,0,0,0,0,0,0,0,"Chengguan District, Lanzhou City",43863,china,43856,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,"Xigu District, Lanzhou City",43863,china,43853,Gansu,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,"Ningxian County, Qingyang City",43863,china,43854,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,"Linxia City, Linxia Prefecture",43863,china,43857,Gansu,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,"Maiji District, Tianshui City",43863,china,43853,Gansu,,FALSE,female,cough sputum,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,"Maiji District, Tianshui City",43863,china,43854,Gansu,,FALSE,male,cough sore throat sputum,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,"Maiji District, Tianshui City",43863,china,43860,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,"Qinzhou District, Tianshui City",43863,china,43858,Gansu,,FALSE,female,chills fatigue,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,"Block 1, Site 11, Whampao Garden",43863,china,43862,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43863,china,43856,Guangxi,,FALSE,male,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,,43850,china,,Shanghai,,FALSE,female,fatigue fever weakness,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Taiyuan City,43852,china,43849,Shanxi,,FALSE,male,fever headache,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Chengdu City,43852,china,43849,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,Chengdu City,43851,china,43841,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Chengdu City,43853,china,43848,Sichuan,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+48,0,0,0,0,1,0,0,0,0,0,Chengdu City,43853,china,43848,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Dazhou City,43853,china,43848,Sichuan,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Mianyang City,43852,china,,Sichuan,,FALSE,male,chills fever myalgia,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+19,0,1,0,0,0,0,0,0,0,0,Mianyang City,43852,china,,Sichuan,,FALSE,male,fatigue myalgia sore throat,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Tianjin City,43854,china,43854,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Urumqi City,43853,china,43849,Xinjiang,,FALSE,male,fever myalgia weakness,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Kunming City,43851,china,,Yunnan,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,Kunming City,43853,china,43846,Yunnan,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Tianjin City,43864,china,43861,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Tianjin City,43864,china,43863,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Tianjin City,43864,china,43857,Tianjin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Tianjin City,43864,china,43860,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Tianjin City,43864,china,43861,Tianjin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Tianjin City,43864,china,43857,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,1,Ho Chi Minh City,43863,vietnam,43856,,cured,2,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+46,0,0,0,0,1,0,0,0,0,0,Wenzhou City,43851,china,43834,Zhejiang,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Xining City,43863,china,,Qinghai,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Xining City,43863,china,,Qinghai,,FALSE,female,chest distress,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,1,,43876,,43857,Taiwan,deceased,4,male,breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+25,0,0,1,0,0,0,0,0,0,0,"Hotel Ton Dan Street, Nha Trang",43861,vietnam,43848,Khanh Hoa,cured,2,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,,43864,malaysia,,Selangor,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,,43865,china,43856,Macau,,FALSE,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,,43865,china,43855,Macau,,FALSE,female,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,,43864,china,,Hong Kong,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,"Neder-Over-Heembeek, Brussels",43865,belgium,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Tianjin City,43864,china,43862,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Tianjin City,43864,china,43856,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+9,1,0,0,0,0,0,0,0,0,0,Tianjin City,43864,china,43863,Tianjin,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Tianjin City,43864,china,43855,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Xianyang City,43865,china,43857,Shaanxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,To Kwa Wan,43865,china,43858,Hong Kong,,FALSE,male,cough diarrhea rhinorrhoea,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,1,Baodi District,43866,china,43863,Tianjin,,FALSE,female,acute coronary syndrome cough fever heart failure,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Baodi District,43868,china,43863,Tianjin,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Baodi District,43868,china,43865,Tianjin,,FALSE,male,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Kowloon,43865,china,43853,Hong Kong,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+42,0,0,0,0,1,0,0,0,0,0,Chonnam National University Hospital,43865,south korea,43855,,cured,2,female,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,"Chengguan District, Lanzhou City",43865,china,43858,Gansu,,FALSE,male,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Fangchenggang City,43865,china,43860,Guangxi,,FALSE,female,diarrhea fatigue fever sore throat,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43865,china,43859,Guangxi,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43866,china,43863,Guangxi,,FALSE,female,fatigue fever sore throat vomiting,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43866,china,43860,Guangxi,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Singapore General Hospital,43864,singapore,43859,,cured,2,female,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,"Haibowan District, Wuhai City",43863,china,,Inner Mongolia,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,"Feixi County, Hefei City",43866,china,43864,Anhui,,FALSE,female,chest distress fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+48,0,0,0,0,1,0,0,0,0,0,"Yaohai District, Hefei City",43866,china,43860,Anhui,,FALSE,female,fever joint pain myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,"Xinzhan District, Hefei City",43866,china,43864,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,"Shushan District, Hefei City",43866,china,43859,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,"Shushan District, Hefei City",43866,china,43862,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,"Lujiang County, Hefei City",43866,china,43863,Anhui,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,"Luyang District, Hefei City",43866,china,43854,Anhui,,FALSE,male,chills fever,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,"Xinzhan District, Hefei City",43866,china,43859,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+78,0,0,0,0,0,0,0,1,0,0,"Xinzhan District, Hefei City",43866,china,43852,Anhui,,FALSE,female,nasal congestion pleuritic chest pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,"Xinzhan District, Hefei City",43866,china,43860,Anhui,,FALSE,female,cough myalgia sweating,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,"Luyang District, Hefei City",43866,china,43856,Anhui,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Kunming City,43866,china,,Yunnan,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+41,0,0,0,0,1,0,0,0,0,0,National Centre for Infectious Diseases,43866,singapore,43858,,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,"Son Loi commune, Binh Xuyen District",43867,vietnam,43864,Vinh Phuc,cured,2,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+22,0,0,1,0,0,0,0,0,0,0,Qujing City,43865,china,43856,Yunnan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Binh Xuyen District,43867,vietnam,,Vinh Phuc,cured,2,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Fuyang City,43854,china,43852,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Fuyang City,43855,china,43853,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+22,0,0,1,0,0,0,0,0,0,0,Fuyang City,43855,china,43851,Anhui,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Bozhou City,43855,china,43848,Anhui,,FALSE,male,fever myalgia rigor,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Bozhou City,43855,china,43850,Anhui,,FALSE,male,breathing difficulty chills diarrhea headache myalgia weakness,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,,0
+59,0,0,0,0,0,1,0,0,0,0,Bozhou City,43855,china,43849,Anhui,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Bozhou City,43855,china,43848,Anhui,,FALSE,male,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Bozhou City,43855,china,43849,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Bozhou City,43855,china,43851,Anhui,,FALSE,female,fever pharyngalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Xishuangbanna Prefecture,43866,china,,Yunnan,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+53,0,0,0,0,0,1,0,0,0,0,"Yanliang District, Xi'an City",43866,china,43862,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Lam Tin,43865,china,43852,Hong Kong,,FALSE,male,breathing difficulty fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+64,0,0,0,0,0,0,1,0,0,0,,43863,china,43857,Tianjin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,,43863,china,43851,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+75,0,0,0,0,0,0,0,1,0,0,,43863,china,43860,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,,43863,china,43855,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43865,japan,43861,Chiba Prefecture,,FALSE,female,breathing difficulty cough fever pneumonia,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43865,japan,43860,Chiba Prefecture,,FALSE,female,fever rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43866,japan,43854,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43866,japan,43854,Kyoto Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43867,,43858,Taiwan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43867,,43856,Taiwan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43867,,,Taiwan,,FALSE,female,chills fever rhinorrhoea sore throat wheezing,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43866,,,Taiwan,,FALSE,female,breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+29,0,0,1,0,0,0,0,0,0,0,"Luzzara, Reggio Emilia",43867,italy,,Emilia-Romagna,cured,2,male,eye irritation fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,"Son Loi commune, Binh Xuyen District",43870,vietnam,43865,Vinh Phuc,cured,2,female,fever headache rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+0.25,1,0,0,0,0,0,0,0,0,0,"Quat Luu commune, Binh Xuyen District",43872,vietnam,43867,Vinh Phuc,cured,2,female,cough rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,0,Zunyi City,43868,china,43861,Guizhou,,FALSE,male,nausea vomiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43876,japan,43874,Aichi Prefecture,,FALSE,female,fever headache,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Owariasahi City,43877,japan,43876,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Owariasahi City,43878,japan,,Aichi Prefecture,,FALSE,male,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Owariasahi City,43879,japan,43878,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,"Son Loi commune, Binh Xuyen District",43874,vietnam,43872,Vinh Phuc,cured,2,male,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Xi'an City,43855,china,43840,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43871,japan,43868,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Urumqi City,43855,china,43851,Xinjiang,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,"Longxi County, Dingxi City",43866,china,43858,Gansu,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+26,0,0,1,0,0,0,0,0,0,0,"Longxi County, Dingxi City",43866,china,43862,Gansu,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,"Baiyin District, Baiyin City",43866,china,43854,Gansu,,FALSE,male,dry throat fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+24,0,0,1,0,0,0,0,0,0,0,"Ningxian County, Qingyang City",43866,china,43862,Gansu,,FALSE,male,fever rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,"Longxi County, Dingxi City",43868,china,43851,Gansu,,FALSE,female,dry throat fatigue sore throat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,"Longxi County, Dingxi City",43868,china,43854,Gansu,,FALSE,female,dry mouth headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,"Longxi County, Dingxi City",43868,china,43851,Gansu,,FALSE,female,discomfort dry mouth dry throat fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,"Huating County, Pingliang City",43868,china,43860,Gansu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,"Maiji District, Tianshui City",43869,china,43859,Gansu,,FALSE,female,discomfort pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Huating County, Pingliang City",43869,china,43862,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,"Xigu District, Lanzhou City",43869,china,43866,Gansu,,FALSE,female,cough discomfort,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Lingao County,43852,china,43846,Hainan,,FALSE,female,cough discomfort fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,"Huating County, Pingliang City",43870,china,43859,Gansu,,FALSE,female,pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+23,0,0,1,0,0,0,0,0,0,0,"Zhuanglang County, Pingliang City",43870,china,43867,Gansu,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Qingcheng County, Qingyang City",43870,china,43864,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,Gannan Prefecture,43873,china,43865,Gansu,,FALSE,female,cough dry mouth dry throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,"Huating County, Pingliang City",43874,china,43871,Gansu,,FALSE,female,cough pleuritic chest pain,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+58,0,0,0,0,0,1,0,0,0,0,"Hezuo City, Gannan Prefecture",43874,china,,Gansu,,FALSE,female,chest distress cough dry mouth,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,"Chengguan District, Lanzhou City",43877,china,43868,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43855,japan,43844,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43868,china,43858,Guangxi,,FALSE,male,cough fatigue fever nausea,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Kuala Lumpur,43855,malaysia,,Wilayah Persekutuan Kuala Lumpur,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+2,1,0,0,0,0,0,0,0,0,0,Kuala Lumpur,43855,malaysia,,Wilayah Persekutuan Kuala Lumpur,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+11,0,1,0,0,0,0,0,0,0,0,Kuala Lumpur,43855,malaysia,,Wilayah Persekutuan Kuala Lumpur,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43860,china,43843,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Fangchenggang City,43860,china,43858,Guangxi,,FALSE,female,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+26,0,0,1,0,0,0,0,0,0,0,Liupanshui City,43869,china,43860,Guizhou,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,National Centre for Infectious Diseases,43854,singapore,43851,,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,0,Zunyi City,43868,china,43861,Guizhou,,FALSE,,nausea vomiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Qianxinan Prefecture,43868,china,43859,Guizhou,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Seongnam-si,43870,south korea,,Gyeonggi,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Incheon Airport,43850,south korea,43848,,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Taoyuan International Airport,43851,,43841,Taiwan,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+61,0,0,0,0,0,0,1,0,0,0,Bangkok,43842,thailand,43835,Bangkok Metropolis,,FALSE,female,chills fever headache sore throat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Bangkok,43854,thailand,43851,Bangkok Metropolis,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Hua Hin District,43855,thailand,,Prachuap Khiri Khan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Seoul,43856,south korea,43852,Seoul,,FALSE,male,chills fever,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43856,japan,43853,Tokyo,,FALSE,male,fever joint pain pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Tsing Yi,43873,china,43864,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,,43874,china,43859,Hong Kong,,FALSE,male,cough vomiting,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,National Centre for Infectious Diseases,43875,singapore,43868,,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Baotou City,43869,china,,Inner Mongolia,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Tongliao City,43869,china,,Inner Mongolia,,FALSE,female,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Wuhan City,,china,43845,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+76,0,0,0,0,0,0,0,1,0,1,Wuhan City,,china,43848,Hubei,deceased,4,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,1,Wuhan City,,china,43841,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+79,0,0,0,0,0,0,0,1,0,1,Wuhan City,,china,43841,Hubei,deceased,4,male,cough fever gasp,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Wuhan City,,china,43838,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+87,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43842,Hubei,deceased,4,male,diarrhea fever,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,1,Wuhan City,,china,43839,Hubei,deceased,4,female,chest distress fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+58,0,0,0,0,0,1,0,0,0,1,Wuhan City,,china,43833,Hubei,deceased,4,male,chest distress cough fever gasp,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Wuhan City,,china,43841,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+78,0,0,0,0,0,0,0,1,0,1,Wuhan City,,china,43843,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,1,Wuhan City,,china,43842,Hubei,deceased,4,male,chills cough fever,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,1,Wuhan City,,china,43840,Hubei,deceased,4,male,dizziness fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+58,0,0,0,0,0,1,0,0,0,0,Wuhan City,,china,43821,Hubei,deceased,4,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,1,Wuhan City,,china,43835,Hubei,deceased,4,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+82,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43840,Hubei,deceased,4,female,breathing difficulty chest distress fever lesions on chest pleuritic chest pain weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,,0
+69,0,0,0,0,0,0,1,0,0,0,Wuhan City,43850,china,,Hubei,deceased,4,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Wuhan City,,china,43836,Hubei,deceased,4,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Wuhan City,,china,43828,Hubei,deceased,4,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+70,0,0,0,0,0,0,0,1,0,0,Wuhan City,,china,43848,Hubei,deceased,4,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+81,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43840,Hubei,deceased,4,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,"Yuan'an County, Yichang City",43853,china,,Hubei,deceased,4,female,primary myelofibrosis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Wuhan City,,china,43809,Hubei,deceased,4,female,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+66,0,0,0,0,0,0,1,0,0,1,Wuhan City,,china,43840,Hubei,deceased,4,male,cough fatigue fever headache,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+48,0,0,0,0,1,0,0,0,0,1,Wuhan City,,china,43809,Hubei,deceased,4,female,cough fever myalgia sputum,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+89,0,0,0,0,0,0,0,0,1,1,Wuhan City,43848,china,43843,Hubei,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+69,0,0,0,0,0,0,1,0,0,0,Wuhan City,,china,43829,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+89,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43835,Hubei,deceased,4,male,weakness,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+75,0,0,0,0,0,0,0,1,0,1,Wuhan City,,china,43836,Hubei,deceased,4,male,cough fever sputum vomiting,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+82,0,0,0,0,0,0,0,0,1,0,Wuhan City,,china,43839,Hubei,deceased,4,male,chills myalgia rhinorrhoea,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Wuhan City,,china,43821,Hubei,deceased,4,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+81,0,0,0,0,0,0,0,0,1,0,Wuhan City,,china,43845,Hubei,deceased,4,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+82,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43833,Hubei,deceased,4,female,chest distress cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Wuhan City,,china,43835,Hubei,deceased,4,male,breathing difficulty fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,0
+80,0,0,0,0,0,0,0,0,1,1,Wuhan City,43850,china,43841,Hubei,deceased,4,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+86,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43832,Hubei,deceased,4,male,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Wuhan City,,china,,Hubei,deceased,4,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+84,0,0,0,0,0,0,0,0,1,1,Wuhan City,,china,43836,Hubei,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,,43895,south africa,43893,Kwazulu-Natal,,FALSE,male,cough fever headache myalgia sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Windhoek,43903,namibia,43901,,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+24,0,0,1,0,0,0,0,0,0,0,Windhoek,43903,namibia,43901,,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Windhoek,43910,namibia,43905,,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30,0,0,0,1,0,0,0,0,0,0,Lagos,43907,nigeria,,Lagos,,FALSE,female,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Lagos,43888,nigeria,,Lagos,asymptomatic,0,,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,,43912,benin,,,,FALSE,male,cough myalgia rhinorrhoea sneezing,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,,43912,benin,,,,FALSE,male,cough fever headache rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+18,0,1,0,0,0,0,0,0,0,0,,43912,benin,,,,FALSE,male,cough fatigue pleuritic chest pain,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43855,china,43852,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+48,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43855,china,43849,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Ma'anshan City,43855,china,43848,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43855,china,43852,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Ma'anshan City,43856,china,43848,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43856,china,43852,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Ma'anshan City,43856,china,43849,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Yokohama,43879,japan,43864,Kanagawa Prefecture,,FALSE,male,fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43871,japan,43869,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Lu'an City,43853,china,,Anhui,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Haneda Airport,43869,japan,43868,Tokyo,,FALSE,male,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43876,japan,43863,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43879,japan,43870,Tokyo,,FALSE,male,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43879,japan,43866,Tokyo,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43879,japan,43868,Tokyo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,"Son Loi commune, Binh Xuyen District",43870,vietnam,43865,Vinh Phuc,cured,2,female,fever headache rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+0.25,1,0,0,0,0,0,0,0,0,0,"Quat Luu commune, Binh Xuyen District",43872,vietnam,43867,Vinh Phuc,cured,2,female,cough rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,"Son Loi commune, Binh Xuyen District",43874,vietnam,43872,Vinh Phuc,cured,2,male,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Yuasa-cho,43876,japan,43925,Wakayama Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Yuasa-cho,43876,japan,43868,Wakayama Prefecture,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Yuasa-cho,43876,japan,,Wakayama Prefecture,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Kunming City,43871,china,43858,Yunnan,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Wenshan Zhuang and Miao Autonomous Prefecture,43871,china,,Yunnan,,FALSE,female,abdominal pain respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Dali Prefecture,43871,china,43851,Yunnan,,FALSE,male,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Honghe Prefecture,43874,china,,Yunnan,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43856,china,43853,Guangxi,,FALSE,female,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43865,japan,43855,,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,,43870,malaysia,43864,Selangor,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Kuala Lumpur,43874,malaysia,43873,Wilayah Persekutuan Kuala Lumpur,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43863,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43852,Kanagawa Prefecture,deceased,4,female,anorexia fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43861,Wakayama Prefecture,,FALSE,male,abdominal pain diarrhea fever myalgia,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43874,japan,43859,Tokyo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43875,japan,43861,Hokkaido,critical,3,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,National Centre for Infectious Diseases,43875,singapore,43868,,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,,43876,thailand,,,,FALSE,female,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,1,,43876,,43857,Taiwan,deceased,4,male,breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43878,,43858,Taiwan,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Lanzhou City,43853,china,43848,Gansu,,FALSE,male,discomfort fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Kumamoto City,43882,japan,43879,Kumamoto,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kumamoto City,43883,japan,,Kumamoto,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43882,japan,43877,Ishikawa,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+0s,0,0,0,0,0,0,0,0,1,0,,43882,japan,43869,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Nakafurano,43882,japan,43876,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Nakafurano,43882,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Chitose,43882,japan,43877,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43882,japan,43857,Kanagawa Prefecture,,FALSE,male,anorexia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,Foshan City,43852,china,43840,Guangdong,,FALSE,male,cough dizziness,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Chiba City,43883,japan,43873,Chiba Prefecture,,FALSE,female,cough fever nausea pneumonia,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Wakayama City,43883,japan,,Wakayama Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Tongchuan City,43856,china,43853,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Tongchuan City,43856,china,,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Hakodate City,43883,japan,43871,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+10s,0,0,0,0,0,0,0,0,1,0,Tomakomai City,43883,japan,43867,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Tomakomai City,43883,japan,43867,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Nemuro City,43883,japan,43876,Hokkaido,,FALSE,female,headache myalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kitami City,43883,japan,43878,Hokkaido,,FALSE,male,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+70s,0,0,0,0,0,0,0,0,1,0,Asahikawa City,43883,japan,43877,Hokkaido,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ebetsu,43883,japan,43874,Hokkaido,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Shiriuchi,43883,japan,43864,Hokkaido,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43883,japan,,Kanagawa Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43883,japan,43877,Chiba Prefecture,,FALSE,female,breathing difficulty fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43883,japan,43873,Tokyo,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43883,japan,43880,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+96,0,0,0,0,0,0,0,0,1,0,Tin Hau,43883,china,43874,Hong Kong,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43883,japan,43873,Chiba Prefecture,,FALSE,female,nausea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Hanzhong City,43856,china,43848,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+10,0,1,0,0,0,0,0,0,0,0,Fangchenggang City,43870,china,43868,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43864,china,43855,Guangxi,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Fangchenggang City,43864,china,43846,Guangxi,,FALSE,female,chest distress fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43858,china,43852,Guangxi,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Fangchenggang City,43858,china,43852,Guangxi,,FALSE,female,cough fever nasal congestion rhinorrhoea sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Biei Town,43884,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43884,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43884,japan,43879,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20,0,0,1,0,0,0,0,0,0,0,,43882,,43858,Taiwan,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43882,,,Taiwan,,FALSE,female,breathing difficulty esophageal reflux no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+28,0,0,1,0,0,0,0,0,0,0,Jincheng City,43879,china,43879,Shanxi,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+1.75,1,0,0,0,0,0,0,0,0,0,Lanzhou City,43861,china,43858,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,"Chengguan District, Lanzhou City",43877,china,43868,Gansu,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,"Qilihe District, Lanzhou City",43860,china,43855,Gansu,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,"Chengguan District, Lanzhou City",43860,china,43846,Gansu,,FALSE,male,cough myalgia rhinorrhoea,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43885,,43867,Taiwan,,FALSE,female,pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43884,,43861,Taiwan,,FALSE,male,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+21,0,0,1,0,0,0,0,0,0,0,Hong Kong,43888,china,43873,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Hong Kong,43888,china,43878,Hong Kong,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+80,0,0,0,0,0,0,0,0,1,0,Hong Kong,43886,china,43886,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Hong Kong,43885,china,43877,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Hong Kong,43885,china,43881,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Hong Kong,43885,china,43878,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Hong Kong,43885,china,43873,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43883,Chiba Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43883,Chiba Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43884,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Shenzhen City,43849,china,43834,Guangdong,,FALSE,male,cough fatigue fever weakness,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43878,Hokkaido,,FALSE,male,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43880,Hokkaido,,FALSE,female,fever nasal congestion sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43887,japan,,Hokkaido,,FALSE,male,fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Shinhidaka,43887,japan,43877,Hokkaido,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Shinhidaka,43887,japan,43878,Hokkaido,,FALSE,female,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43885,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Atsugi,43887,japan,43887,Kanagawa Prefecture,,FALSE,male,anorexia cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43862,Osaka,,FALSE,female,cough myalgia pleuritic chest pain sore throat,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43883,Tokyo,,FALSE,male,breathing difficulty cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+58,0,0,0,0,0,1,0,0,0,0,,43856,china,,Macau,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43874,Tokyo,,FALSE,male,breathing difficulty cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43887,japan,43875,Tokyo,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43885,Aichi Prefecture,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43886,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43885,Aichi Prefecture,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43884,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43887,japan,43885,Aichi Prefecture,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43875,Gifu,,FALSE,male,fever headache myalgia pneumonia toothache,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43884,Gifu,,FALSE,female,chills sore throat,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,,43856,china,43852,Macau,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43877,Ishikawa,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43871,Tokyo,,FALSE,female,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43881,Osaka,,FALSE,male,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43886,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43886,Hokkaido,,FALSE,male,cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Okhotsk,43888,japan,43878,Hokkaido,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Okhotsk,43888,japan,43877,Hokkaido,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43888,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43888,japan,43876,Hokkaido,,FALSE,male,cough fever sore throat vomiting,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+21,0,0,1,0,0,0,0,0,0,0,,43856,china,43855,Macau,,FALSE,female,dizziness myalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Takikawa,43888,japan,43883,Hokkaido,,FALSE,male,fever joint pain,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43888,japan,43882,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Okhotsk,43888,japan,43885,Hokkaido,,FALSE,male,fever headache joint pain myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Tokachi,43888,japan,43882,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Biei Town,43888,japan,43885,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Hiyama,43888,japan,43881,Hokkaido,,FALSE,male,cough fever joint pain,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Hiyama,43888,japan,43883,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Yakumo,43888,japan,43883,Hokkaido,,FALSE,male,fever myalgia sore throat,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Kikonai,43888,japan,43885,Hokkaido,,FALSE,female,cough sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43888,japan,43887,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43888,japan,43887,Aichi Prefecture,,FALSE,male,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43856,,43852,Taiwan,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Shenzhen City,43851,china,43833,Guangdong,,FALSE,female,cough fever weakness,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Shenzhen City,43851,china,43831,Guangdong,,FALSE,male,cough diarrhea fever rhinorrhoea sneezing,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,0,Hong Kong,43856,china,43851,Hong Kong,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Hong Kong,43856,china,43854,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Sihanoukville City,43857,cambodia,43856,Sihanoukville,,FALSE,male,fever rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43888,japan,43879,Kanagawa Prefecture,,FALSE,female,chills fatigue headache,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Sagamihara City,43888,japan,43884,Kanagawa Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Shizuoka City,43888,japan,43881,Shizuoka,,FALSE,male,cough sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Setana,43889,japan,43882,Hokkaido,,FALSE,female,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Chitose,43889,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Fukagawa,43889,japan,43886,Hokkaido,,FALSE,male,difficulty walking fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kamikawa,43889,japan,43880,Hokkaido,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nakafurano,43889,japan,43882,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kitami City,43889,japan,43879,Hokkaido,,FALSE,male,chills fever myalgia,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kitami City,43889,japan,43880,Hokkaido,,FALSE,female,breathing difficulty cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43889,japan,43873,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Kushiro City,43889,japan,43881,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43889,japan,43881,Hokkaido,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43889,japan,43879,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43889,japan,43888,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43889,japan,43880,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,,43887,,,Taiwan,,FALSE,female,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+63,0,0,0,0,0,0,1,0,0,0,Shenzhen City,43851,china,43838,Guangdong,,FALSE,female,cough fever pleural effusion weakness,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Shenzhen City,43851,china,43832,Guangdong,,FALSE,female,diarrhea fever myalgia nasal congestion pleuritic chest pain sore throat,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Chizhou City,43853,china,43852,Anhui,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+76,0,0,0,0,0,0,0,1,0,0,Thimphu,43866,bhutan,43894,,,FALSE,male,breathing difficulty cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+66,0,0,0,0,0,0,1,0,0,0,Zhuhai City,43851,china,43843,Guangdong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Bengbu City,43857,china,43854,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Bengbu City,43857,china,43851,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Ankang City,43857,china,43853,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Ankang City,43857,china,43852,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Ankang City,43857,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+0.25,1,0,0,0,0,0,0,0,0,0,Haikou City,43857,china,43856,Hainan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,1,,43857,,43855,Taiwan,,FALSE,female,cough fever myalgia rhinorrhoea sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Pyeongtaek,43857,south korea,43851,Gyeonggi,,FALSE,male,fever myalgia pneumonia,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,0
+59,0,0,0,0,0,1,0,0,0,0,Cainta,43897,philippines,,Rizal Province,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Melbourne,43900,australia,43897,Victoria,,FALSE,male,cough fatigue,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43900,mongolia,,,,FALSE,,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Huainan City,43856,china,43852,Anhui,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Kochi,43890,japan,43874,Kochi,,FALSE,female,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Niigata,43890,japan,43886,Niigata,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Sendai,43890,japan,43889,Miyagi,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+90s,0,0,0,0,0,0,0,0,1,0,Tomakomai City,43890,japan,43881,Hokkaido,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43890,japan,43882,Hokkaido,,FALSE,female,cough joint pain myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43890,japan,43880,Hokkaido,,FALSE,female,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43890,japan,43884,Aichi Prefecture,,FALSE,female,cough fever vomiting,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+63,0,0,0,0,0,0,1,0,0,0,Beihai City,43852,china,43844,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,1,Kitakyshu,43891,japan,43880,Fukuoka,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43888,japan,43886,Kanagawa Prefecture,,FALSE,female,breathing difficulty fever pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43889,japan,43875,Kanagawa Prefecture,,FALSE,female,headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Funabashi,43891,japan,43883,Chiba Prefecture,,FALSE,male,anorexia cough diarrhea fever nausea,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Ebetsu,43891,japan,43885,Hokkaido,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Beihai City,43852,china,43839,Guangxi,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kitami City,43891,japan,43881,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43891,japan,43873,Tokyo,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43891,japan,43887,Tokyo,,FALSE,male,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara,43891,japan,43880,Kanagawa Prefecture,,FALSE,male,fever joint pain myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara,43891,japan,43880,Kanagawa Prefecture,,FALSE,female,fever joint pain myalgia sputum,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Liuzhou City,43852,china,43851,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43891,japan,43886,Kochi,,FALSE,female,cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43891,japan,43885,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43891,japan,43887,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43891,japan,43888,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Nishinomiya,43891,japan,43884,Hyogo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Wuzhou City,43852,china,43850,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Guilin City,43854,china,43849,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Oita,43893,japan,43884,Oita,,FALSE,female,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Guilin City,43854,china,43850,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kobe,43893,japan,43888,Hyogo,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kobe,43893,japan,43888,Hyogo,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43893,japan,43890,Hokkaido,,FALSE,female,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43893,japan,43888,Hokkaido,,FALSE,female,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Niigata,43893,japan,43883,Niigata,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,Beihai City,43854,china,43849,Guangxi,,FALSE,female,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Niigata,43893,japan,43884,Niigata,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Niigata,43893,japan,43885,Niigata,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kyoto,43893,japan,43882,Kyoto,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43893,japan,43884,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43893,japan,43884,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43893,japan,43887,Osaka,,FALSE,female,backache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+20,0,0,1,0,0,0,0,0,0,0,Beihai City,43854,china,43852,Guangxi,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Mikawa,43893,japan,43885,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Mikawa,43893,japan,43889,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Owari,43893,japan,43889,Aichi Prefecture,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Owari,43893,japan,43887,Aichi Prefecture,,FALSE,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Changping District,43852,china,,Beijing,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Beihai City,43854,china,43852,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,Kochi,43894,japan,43893,Kochi,,FALSE,female,cough sputum,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kochi,43894,japan,43886,Kochi,,FALSE,male,fever rhinorrhoea sneezing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Kochi,43894,japan,43886,Kochi,,FALSE,female,fever rhinorrhoea sneezing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Aki,43894,japan,43885,Kochi,,FALSE,male,rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Matsuyama,43894,japan,43886,Ehime,,FALSE,female,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Baise City,43854,china,43849,Guangxi,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43891,Miyazaki,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Hokkaido,,FALSE,male,chills diarrhea fever,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Asahikawa,43894,japan,43883,Hokkaido,,FALSE,male,sore throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Asahikawa,43894,japan,43889,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43892,Tokyo,,FALSE,female,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Hechi City,43854,china,43851,Guangxi,,FALSE,female,chest distress cough myalgia sputum,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Tokyo,,FALSE,female,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Tokyo,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43889,Tokyo,,FALSE,female,fever joint pain,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Ichikawa,43894,japan,43877,Chiba Prefecture,,FALSE,female,cough rhinorrhoea sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43891,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43893,Aichi Prefecture,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43893,Aichi Prefecture,,FALSE,male,fever sputum,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43891,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43894,japan,43893,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kyoto,43894,japan,43879,Kyoto Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Kyoto,43894,japan,43889,Kyoto Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43884,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43881,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43886,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43894,Osaka,,FALSE,female,sneezing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43884,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43889,Osaka,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43894,japan,43878,Osaka,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Hechi City,43854,china,43849,Guangxi,,FALSE,male,cough headache,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Kyoto,43895,japan,43889,Kyoto Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43883,Hyogo,,FALSE,female,fatigue sore throat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+2,1,0,0,0,0,0,0,0,0,0,Hechi City,43854,china,43852,Guangxi,,FALSE,female,fever sneezing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43884,Yamaguchi,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43883,Hokkaido,,FALSE,male,cough headache myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Fangchenggang City,43854,china,43853,Guangxi,cured,2,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Sagamihara,43895,japan,43890,Kanagawa Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43889,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43884,Saitama,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43895,japan,43886,Tokyo,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,,43895,japan,43886,Tokyo,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43888,Tokyo,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43854,china,43845,Guangxi,,FALSE,male,cough muscular stiffness weakness,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43889,Tokyo,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43889,Tokyo,,FALSE,female,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+90s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43892,Tokyo,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43871,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43891,Tokyo,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+,1,0,0,0,0,0,0,0,0,0,Daxing District,43851,china,43838,Beijing,cured,2,female,fatigue fever headache,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Yulin City,43854,china,43851,Guangxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43886,Wakayama Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Mikawa,43895,japan,43891,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Owari,43895,japan,43889,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20,0,0,1,0,0,0,0,0,0,0,"Guiding County, Qiannan Prefecture",43852,china,43848,Guizhou,,FALSE,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43887,Aichi Prefecture,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43883,Aichi Prefecture,,FALSE,male,fever myalgia pneumonia,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Guiyang City,43852,china,43844,Guizhou,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43893,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43894,Aichi Prefecture,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43895,japan,43886,Togichi,,FALSE,female,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43896,japan,43889,Hokkaido,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43896,japan,43891,Hokkaido,,FALSE,female,cough headache myalgia sore throat,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Hakodate,43887,japan,43877,Hokkaido,,FALSE,,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,1,Cainta,43897,philippines,43886,Rizal,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+59,0,0,0,0,0,1,0,0,0,1,Cainta,43897,philippines,43888,Rizal,deceased,4,female,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+86,0,0,0,0,0,0,0,0,1,1,Marikina,43898,philippines,43891,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+56,0,0,0,0,0,1,0,0,0,1,Manila,43899,philippines,43890,Metro Manila,deceased,4,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+50,0,0,0,0,0,1,0,0,0,0,Tongren City,43852,china,43844,Guizhou,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Quezon,43899,philippines,43889,Metro Manila,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Makati,43899,philippines,43886,Metro Manila,cured,2,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,1,San Juan,43899,philippines,43890,Metro Manila,cured,2,male,cough rhinorrhoea sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Pasig,43899,philippines,43887,Metro Manila,cured,2,male,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Imus,43899,philippines,43890,Cavite,cured,2,male,cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+58,0,0,0,0,0,1,0,0,0,0,San Jose Del Monte,43899,philippines,43894,Bulacan,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+51,0,0,0,0,0,1,0,0,0,1,San Juan,43899,philippines,43894,Metro Manila,cured,2,female,cough dysphagia rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Sapporo City,43896,japan,43887,Hokkaido,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+30,0,0,0,1,0,0,0,0,0,0,San Juan,43899,philippines,43893,Metro Manila,cured,2,female,cough headache sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+82,0,0,0,0,0,0,0,0,1,1,Marikina,43900,philippines,43899,Metro Manila,deceased,4,female,acute coronary syndrome breathing difficulty cardiogenic shock kidney failure respiratory failure septic shock,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0
+60,0,0,0,0,0,0,1,0,0,0,Makati,43900,philippines,43893,Metro Manila,,FALSE,male,cough dizziness fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,1,Makati,43901,philippines,43890,Metro Manila,deceased,4,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+88,0,0,0,0,0,0,0,0,1,1,Pasig,43901,philippines,43889,Metro Manila,deceased,4,female,respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Pasig,43901,philippines,43885,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+79,0,0,0,0,0,0,0,1,0,1,Quezon,43901,philippines,43891,Metro Manila,deceased,4,female,organ failure pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+,1,0,0,0,0,0,0,0,0,0,Ishikari,43896,japan,43889,Hokkaido,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Pasig,43904,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+65,0,0,0,0,0,0,1,0,0,1,San Ildefonso,43903,philippines,,Bulacan,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43889,Hokkaido,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,1,Makati,43903,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+67,0,0,0,0,0,0,1,0,0,1,San Fernando,43903,philippines,,Pampanga,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43894,Hokkaido,,FALSE,male,myalgia sputum,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0
+70s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43884,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,1,Quezon,43905,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+76,0,0,0,0,0,0,0,1,0,1,Cainta,43905,philippines,,Rizal,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+67,0,0,0,0,0,0,1,0,0,1,Quezon,43905,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43881,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,1,Makati,43907,philippines,,Metro Manila,deceased,4,female,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+86,0,0,0,0,0,0,0,0,1,1,San Juan,43906,philippines,,Metro Manila,deceased,4,female,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43886,Tokyo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+90s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43887,Tokyo,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+74,0,0,0,0,0,0,0,1,0,1,Manila,43906,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43884,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,1,Quezon,43908,philippines,,Metro Manila,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+58,0,0,0,0,0,1,0,0,0,1,Marawi,43908,philippines,,Lanao del Sur,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+81,0,0,0,0,0,0,0,0,1,1,San Juan,43909,philippines,,Metro Manila,deceased,4,male,cardiac arrhythmia pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+71,0,0,0,0,0,0,0,1,0,1,Quezon,43909,philippines,,Metro Manila,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+76,0,0,0,0,0,0,0,1,0,1,Bacoor,43911,philippines,,Cavite,deceased,4,male,heart failure kidney failure organ failure pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ichikawa,43896,japan,43885,Chiba Prefecture,,FALSE,male,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ichikawa,43896,japan,43885,Chiba Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,1,Quezon,43911,philippines,,Metro Manila,deceased,4,male,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+72,0,0,0,0,0,0,0,1,0,1,Meycauayan,43911,philippines,,Bulacan,deceased,4,female,breathing difficulty pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,,0
+72,0,0,0,0,0,0,0,1,0,1,San Juan,43911,philippines,,Metro Manila,deceased,4,female,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+73,0,0,0,0,0,0,0,1,0,1,San Juan,43911,philippines,,Metro Manila,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+57,0,0,0,0,0,1,0,0,0,1,Mandaluyong,43911,philippines,,Metro Manila,deceased,4,male,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Okayama,43896,japan,43891,Kochi,,FALSE,male,anorexia fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43894,Kochi,,FALSE,male,breathing difficulty cough myalgia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,0
+46,0,0,0,0,1,0,0,0,0,0,Almaty,43903,kazakhstan,,Almaty,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Almaty,43903,kazakhstan,,Almaty,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43896,japan,43884,Nagano,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,Shijiazhuang City,43853,china,43849,Hebei,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+89,0,0,0,0,0,0,0,0,1,1,San Ildefonso,43911,philippines,,Bulacan,deceased,4,male,electrolyte disorders heart attack pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+67,0,0,0,0,0,0,1,0,0,1,Quezon,43911,philippines,,Metro Manila,deceased,4,female,respiratory infection,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Quezon,43911,philippines,,Metro Manila,deceased,4,female,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+49,0,0,0,0,1,0,0,0,0,0,Harbin City,43853,china,43852,Heilongjiang,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,1,Quezon,43911,philippines,,Metro Manila,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+46,0,0,0,0,1,0,0,0,0,1,Antipolo,43911,philippines,,Rizal,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+57,0,0,0,0,0,1,0,0,0,1,Caloocan,43911,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+46,0,0,0,0,1,0,0,0,0,1,Cabuyao,43911,philippines,,Laguna,deceased,4,male,heart attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+74,0,0,0,0,0,0,0,1,0,1,Quezon,43911,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+65,0,0,0,0,0,0,1,0,0,1,Quezon,43911,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+56,0,0,0,0,0,1,0,0,0,1,Paranaque,43911,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+56,0,0,0,0,0,1,0,0,0,0,San Juan,43910,philippines,,Metro Manila,deceased,4,male,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+80,0,0,0,0,0,0,0,0,1,0,Taytay,43910,philippines,,Rizal,deceased,4,female,acute coronary syndrome heart failure respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0
+63,0,0,0,0,0,0,1,0,0,1,Muntinlupa,43911,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure sepsis,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,,0
+78,0,0,0,0,0,0,0,1,0,1,Paranaque,43911,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,,0
+63,0,0,0,0,0,0,1,0,0,1,Quezon,43912,philippines,,Metro Manila,deceased,4,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+71,0,0,0,0,0,0,0,1,0,1,Quezon,43912,philippines,,Metro Manila,deceased,4,female,pneumonia respiratory failure sepsis,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,,0
+80,0,0,0,0,0,0,0,0,1,1,Manila,43912,philippines,,Metro Manila,deceased,4,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+74,0,0,0,0,0,0,0,1,0,1,Quezon,43912,philippines,,Metro Manila,deceased,4,female,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+62,0,0,0,0,0,0,1,0,0,1,Manila,43913,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Mudanjiang City,43853,china,,Heilongjiang,,FALSE,male,cough fatigue fever sputum,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+78,0,0,0,0,0,0,0,1,0,1,Makati,43912,philippines,,Metro Manila,deceased,4,female,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+57,0,0,0,0,0,1,0,0,0,1,Manila,43912,philippines,,Metro Manila,deceased,4,male,acute coronary syndrome cardiogenic shock heart failure pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+83,0,0,0,0,0,0,0,0,1,1,Naic,43912,philippines,,Cavite,deceased,4,female,heart attack pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+59,0,0,0,0,0,1,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,1,Pasig,43913,philippines,,Metro Manila,deceased,4,female,acute coronary syndrome breathing difficulty kidney failure septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,0
+37,0,0,0,1,0,0,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,1,Pasig,43914,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Chengdu City,43857,china,43856,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,1,Muntinlupa,43913,philippines,,Metro Manila,,FALSE,female,breathing difficulty pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,,0
+43,0,0,0,0,1,0,0,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+79,0,0,0,0,0,0,0,1,0,0,Taguig,43914,philippines,,Metro Manila,deceased,4,female,breathing difficulty cardiac arrhythmia pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+79,0,0,0,0,0,0,0,1,0,0,Muntinlupa,43914,philippines,,Metro Manila,deceased,4,male,respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+87,0,0,0,0,0,0,0,0,1,1,Lambayong,43914,philippines,,Sultan Kudarat,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+60,0,0,0,0,0,0,1,0,0,1,Manila,43914,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+41,0,0,0,0,1,0,0,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+77,0,0,0,0,0,0,0,1,0,1,Manila,43914,philippines,,Metro Manila,deceased,4,male,pneumonia sepsis,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,0
+80,0,0,0,0,0,0,0,0,1,1,Paranaque,43914,philippines,,Metro Manila,deceased,4,female,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+56,0,0,0,0,0,1,0,0,0,1,Bacolor,43915,philippines,,Pampanga,deceased,4,male,acute coronary syndrome breathing difficulty pneumonia respiratory failure respiratory infection,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,,0
+75,0,0,0,0,0,0,0,1,0,1,Quezon,43915,philippines,,Metro Manila,deceased,4,male,acute coronary syndrome kidney failure respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,0,Zigong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Paranaque,43915,philippines,,Metro Manila,deceased,4,male,myocardial dysfunction respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,1,Muntinlupa,43915,philippines,,Metro Manila,deceased,4,male,acute coronary syndrome breathing difficulty gastritis kidney failure pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,,0
+52,0,0,0,0,0,1,0,0,0,0,Zigong City,43857,china,43856,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,1,San Juan,43915,philippines,,Metro Manila,deceased,4,male,heart failure pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Caloocan,43915,philippines,,Metro Manila,deceased,4,male,heart failure pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+31,0,0,0,1,0,0,0,0,0,0,Luzhou City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,Mianyang City,43857,china,43853,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80,0,0,0,0,0,0,0,0,1,1,San Juan,43915,philippines,,Metro Manila,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Zhengzhou City,43851,china,43828,Henan,,FALSE,male,breathing difficulty chest distress fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+78,0,0,0,0,0,0,0,1,0,1,Manila,43915,philippines,,Metro Manila,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+24,0,0,1,0,0,0,0,0,0,0,Suining City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,1,Quezon,43915,philippines,,Metro Manila,deceased,4,male,heart failure pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+86,0,0,0,0,0,0,0,0,1,1,Quezon,43915,philippines,,Metro Manila,deceased,4,male,cardiac arrhythmia pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+82,0,0,0,0,0,0,0,0,1,1,Quezon,43915,philippines,,Metro Manila,deceased,4,male,breathing difficulty heart attack pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+47,0,0,0,0,1,0,0,0,0,0,Neijiang City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Neijiang City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Leshan City,43857,china,43855,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Nanchong City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+74,0,0,0,0,0,0,0,1,0,1,Quezon,43916,philippines,,Metro Manila,deceased,4,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Nanchong City,43857,china,43854,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Guang'an City,43857,china,43854,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Ya'an City,43857,china,43855,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,1,Quezon,43916,philippines,,Metro Manila,deceased,4,male,cardiac arrest pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Ganzi Prefecture,43857,china,43854,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+78,0,0,0,0,0,0,0,1,0,1,Quezon,43916,philippines,,Metro Manila,deceased,4,male,pneumonia respiratory failure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Liangshan Prefecture,43857,china,43854,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,1,Iloilo,43917,philippines,,Iloilo,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+83,0,0,0,0,0,0,0,0,1,1,Paranaque,43916,philippines,,Metro Manila,deceased,4,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+64,0,0,0,0,0,0,1,0,0,1,Manila,43916,philippines,,Metro Manila,deceased,4,female,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+65,0,0,0,0,0,0,1,0,0,1,Quezon,43917,philippines,,Metro Manila,,FALSE,female,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+51,0,0,0,0,0,1,0,0,0,1,San Juan,43916,philippines,,Metro Manila,deceased,4,male,acute coronary syndrome cardiac arrhythmia kidney failure respiratory infection septic shock,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,1,Pasig,43915,philippines,,Metro Manila,,FALSE,male,acute coronary syndrome breathing difficulty pneumonia respiratory failure respiratory infection septic shock,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,,0
+89,0,0,0,0,0,0,0,0,1,1,Caloocan,43910,philippines,,Metro Manila,deceased,4,male,acute coronary syndrome breathing difficulty cardiac arrhythmia kidney failure pneumonia sepsis,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,,0
+69,0,0,0,0,0,0,1,0,0,1,Quezon,43917,philippines,,Metro Manila,deceased,4,male,pneumonia septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,0
+59,0,0,0,0,0,1,0,0,0,1,Davao,43913,philippines,,Davao del Sur,deceased,4,male,breathing difficulty hypoxia pneumonia,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,,0
+45,0,0,0,0,1,0,0,0,0,0,Davao,,philippines,,Davao del Sur,deceased,4,male,breathing difficulty cardiac arrest hypoxia pneumonia,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,,0
+60,0,0,0,0,0,0,1,0,0,0,Muntinlupa,43915,philippines,,Metro Manila,deceased,4,male,breathing difficulty septic shock,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,0
+74,0,0,0,0,0,0,0,1,0,1,Quezon,43917,philippines,,Metro Manila,deceased,4,male,breathing difficulty pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0
+39,0,0,0,1,0,0,0,0,0,0,Hong Kong,43852,china,43851,Hong Kong,deceased,4,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,Hong Kong,43852,china,43848,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Hong Kong,43855,china,,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,Changsha City,43851,china,,Hunan,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,,43858,japan,43844,Nara Prefecture,,FALSE,male,chills cough joint pain,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43858,japan,43856,Hokkaido,,FALSE,female,cough fever pneumonia,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,,0
+,1,0,0,0,0,0,0,0,0,0,Xishuangbanna Prefecture,43857,china,43853,Yunnan,cured,2,female,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Xi'an City,43858,china,43855,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Baoji City,43858,china,43854,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Xi'an City,43858,china,43851,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Baoji City,43858,china,43848,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Baoji City,43858,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Weinan City,43858,china,43850,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Weinan City,43858,china,43850,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Shangluo City,43858,china,43855,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Hanzhong City,43858,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Xi'an City,43858,china,43855,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Ankang City,43858,china,43852,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Shijingshan District,43852,china,43849,Beijing,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Suzhou City,43852,china,43840,Jiangsu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,,43858,,43855,Taiwan,,FALSE,male,myalgia rhinorrhoea,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Shijingshan District,43853,china,43849,Beijing,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,"Dongxiang County, Fuzhou City",43851,china,,Jiangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Ganzhou City,43854,china,43851,Jiangxi,,FALSE,male,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,Ganzhou City,43854,china,43852,Jiangxi,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Changchun City,43853,china,43849,Jilin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Dalian City,43852,china,43841,Liaoning,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Shenyang City,43853,china,43846,Liaoning,,FALSE,female,pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Chaoyang City,43853,china,43849,Liaoning,,FALSE,male,myalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Landmark Hotel,43851,china,43842,Macau,,FALSE,female,cough sore throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Zhongwei City,43853,china,43851,Ningxia,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Xicheng District,43852,china,43850,Beijing,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Weihai City,43852,china,43850,Shandong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Linyi City,43852,china,43851,Shandong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Linyi City,43852,china,43851,Shandong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,,43852,china,,Beijing,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,,43850,china,,Shanghai,,FALSE,female,fatigue fever weakness,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,,0
+76,0,0,0,0,0,0,0,1,0,0,Hong Kong,43897,china,43853,Hong Kong,,FALSE,male,diarrhea,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Hong Kong,43898,china,43896,Hong Kong,,FALSE,male,fatigue headache rhinorrhoea sore throat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Hong Kong,43899,china,43897,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Taiyuan City,43852,china,43849,Shanxi,,FALSE,male,fever headache,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Chengdu City,43852,china,43849,Sichuan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,1,Seoul,43860,south korea,43856,Seoul,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,Chengdu City,43851,china,43841,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,Hong Kong,43858,china,43855,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Hong Kong,43858,china,43855,Hong Kong,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Chengdu City,43853,china,43848,Sichuan,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+48,0,0,0,0,1,0,0,0,0,0,Chengdu City,43853,china,43848,Sichuan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Dazhou City,43853,china,43848,Sichuan,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Mianyang City,43852,china,,Sichuan,,FALSE,male,chills fever myalgia,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+19,0,1,0,0,0,0,0,0,0,0,Mianyang City,43852,china,,Sichuan,,FALSE,male,fatigue myalgia sore throat,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Tianjin City,43854,china,43854,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,Urumqi City,43853,china,43849,Xinjiang,,FALSE,male,fever myalgia weakness,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Kunming City,43851,china,,Yunnan,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,Kunming City,43853,china,43846,Yunnan,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,Xishuangbanna Prefecture,43854,china,43848,Yunnan,cured,2,female,fever rhinorrhoea weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Lanzhou City,43861,china,,Gansu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Wenzhou City,43851,china,43834,Zhejiang,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Wenzhou City,43851,china,43834,Zhejiang,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Hong Kong,43861,china,43858,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+75,0,0,0,0,0,0,0,1,0,0,Hong Kong,43861,china,43852,Hong Kong,,FALSE,male,breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+39,0,0,0,1,0,0,0,0,0,0,Hong Kong,43862,china,43849,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,"Lujiang County, Hefei City",43861,china,43858,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,"Yaohai District, Hefei City",43861,china,43850,Anhui,,FALSE,male,discomfort fever pharyngalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,"Lujiang County, Hefei City",43861,china,43854,Anhui,,FALSE,female,chills fever headache,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,"Feidong County, Hefei City",43861,china,43855,Anhui,,FALSE,female,fever sore throat sputum,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Changfeng County, Hefei City",43861,china,43858,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Hefei City,43861,china,43854,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Hefei City,43861,china,43860,Anhui,,FALSE,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+31,0,0,0,1,0,0,0,0,0,0,"Chengguan District, Lanzhou City",43862,china,43849,Gansu,,FALSE,male,discomfort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,"Chengguan District, Lanzhou City",43862,china,43854,Gansu,,FALSE,female,weakness,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,"Weiyuan County, Dingxi City",43862,china,43854,Gansu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Gannan Prefecture,43862,china,43858,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,"Dalad Banner, Ordos City",43862,china,43859,Inner Mongolia,,FALSE,male,chest distress fever nausea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,1,Ho Chi Minh City,43863,vietnam,43856,,cured,2,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+25,0,0,1,0,0,0,0,0,0,0,"Hotel Ton Dan Street, Nha Trang",43861,vietnam,43848,Khanh Hoa,cured,2,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Seoul,43860,south korea,43856,Seoul,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Gunsan,43861,south korea,43851,,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43861,japan,43850,Chiba Prefecture,,FALSE,female,cough rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43861,japan,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43861,japan,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43862,japan,,,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43862,japan,43856,,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43862,japan,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Changi Airport,43861,singapore,43860,,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+80,0,0,0,0,0,0,0,0,1,0,New Territories,43862,china,43849,Hong Kong,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Fuyang City,43854,china,43852,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Fuyang City,43855,china,43853,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+22,0,0,1,0,0,0,0,0,0,0,Fuyang City,43855,china,43851,Anhui,,FALSE,male,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Bozhou City,43855,china,43848,Anhui,,FALSE,male,fever myalgia rigor,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Bozhou City,43855,china,43850,Anhui,,FALSE,male,breathing difficulty chills diarrhea headache myalgia weakness,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,,0
+59,0,0,0,0,0,1,0,0,0,0,Bozhou City,43855,china,43849,Anhui,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+26,0,0,1,0,0,0,0,0,0,0,"Chengguan District, Lanzhou City",43863,china,43856,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,"Xigu District, Lanzhou City",43863,china,43858,Gansu,deceased,4,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,"Xigu District, Lanzhou City",43863,china,43853,Gansu,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,"Ningxian County, Qingyang City",43863,china,43854,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,"Linxia City, Linxia Prefecture",43863,china,43857,Gansu,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,"Maiji District, Tianshui City",43863,china,43853,Gansu,,FALSE,female,cough sputum,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,"Maiji District, Tianshui City",43863,china,43854,Gansu,,FALSE,male,cough sore throat sputum,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+39,0,0,0,1,0,0,0,0,0,0,"Maiji District, Tianshui City",43863,china,43860,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,"Qinzhou District, Tianshui City",43863,china,43858,Gansu,,FALSE,female,chills fatigue,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Bozhou City,43855,china,43848,Anhui,,FALSE,male,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Bozhou City,43855,china,43849,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+72,0,0,0,0,0,0,0,1,0,0,"Block 1, Site 11, Whampao Garden",43863,china,43862,Hong Kong,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,Bozhou City,43855,china,43851,Anhui,,FALSE,female,fever pharyngalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43863,china,43856,Guangxi,,FALSE,male,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Lu'an City,43854,china,,Anhui,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Ankang City,43864,china,,Shaanxi,good,1,male,lesions on chest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Tianjin City,43864,china,43861,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,Tianjin City,43864,china,43863,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,Tianjin City,43864,china,43857,Tianjin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Tianjin City,43864,china,43860,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,Tianjin City,43864,china,43861,Tianjin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,Tianjin City,43864,china,43857,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Xining City,43863,china,,Qinghai,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Xining City,43863,china,,Qinghai,,FALSE,female,chest distress,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+41,0,0,0,0,1,0,0,0,0,0,,43864,malaysia,,Selangor,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,,43865,china,43856,Macau,,FALSE,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,,43865,china,43855,Macau,,FALSE,female,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Chonnam National University Hospital,43865,south korea,43855,,cured,2,female,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Singapore General Hospital,43864,singapore,43859,,cured,2,female,fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,,43864,china,,Hong Kong,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,Tianjin City,43864,china,43862,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Tianjin City,43864,china,43856,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+9,1,0,0,0,0,0,0,0,0,0,Tianjin City,43864,china,43863,Tianjin,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Tianjin City,43864,china,43855,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Xianyang City,43865,china,43857,Shaanxi,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+25,0,0,1,0,0,0,0,0,0,0,To Kwa Wan,43865,china,43858,Hong Kong,,FALSE,male,cough diarrhea rhinorrhoea,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Wushan County,43851,china,43845,Chongqing,cured,2,female,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,1,Baodi District,43866,china,43863,Tianjin,,FALSE,female,acute coronary syndrome cough fever heart failure,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Baodi District,43868,china,43863,Tianjin,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Baodi District,43868,china,43865,Tianjin,,FALSE,male,fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,"Son Loi commune, Binh Xuyen District",43867,vietnam,43864,Vinh Phuc,cured,2,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Binh Xuyen District,43867,vietnam,,Vinh Phuc,cured,2,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Kowloon,43865,china,43853,Hong Kong,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+69,0,0,0,0,0,0,1,0,0,0,"Chengguan District, Lanzhou City",43865,china,43858,Gansu,,FALSE,male,fatigue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Fangchenggang City,43865,china,43860,Guangxi,,FALSE,female,diarrhea fatigue fever sore throat,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+62,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43865,china,43859,Guangxi,,FALSE,male,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43866,china,43863,Guangxi,,FALSE,female,fatigue fever sore throat vomiting,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+45,0,0,0,0,1,0,0,0,0,0,Fangchenggang City,43866,china,43860,Guangxi,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,0,"Haibowan District, Wuhai City",43863,china,,Inner Mongolia,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,"Feixi County, Hefei City",43866,china,43864,Anhui,,FALSE,female,chest distress fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+48,0,0,0,0,1,0,0,0,0,0,"Yaohai District, Hefei City",43866,china,43860,Anhui,,FALSE,female,fever joint pain myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,"Xinzhan District, Hefei City",43866,china,43864,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,"Shushan District, Hefei City",43866,china,43859,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,"Shushan District, Hefei City",43866,china,43862,Anhui,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,"Lujiang County, Hefei City",43866,china,43863,Anhui,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,"Luyang District, Hefei City",43866,china,43854,Anhui,,FALSE,male,chills fever,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,"Xinzhan District, Hefei City",43866,china,43859,Anhui,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+78,0,0,0,0,0,0,0,1,0,0,"Xinzhan District, Hefei City",43866,china,43852,Anhui,,FALSE,female,nasal congestion pleuritic chest pain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,"Xinzhan District, Hefei City",43866,china,43860,Anhui,,FALSE,female,cough myalgia sweating,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,0
+36,0,0,0,1,0,0,0,0,0,0,"Luyang District, Hefei City",43866,china,43856,Anhui,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Fuyang City,43852,china,43851,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Kunming City,43866,china,,Yunnan,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+41,0,0,0,0,1,0,0,0,0,0,National Centre for Infectious Diseases,43866,singapore,43858,,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+22,0,0,1,0,0,0,0,0,0,0,Qujing City,43865,china,43856,Yunnan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,Xi'an City,43855,china,43840,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Ankang City,43855,china,43851,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+41,0,0,0,0,1,0,0,0,0,0,Ankang City,43855,china,43844,Shaanxi,,FALSE,male,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+,1,0,0,0,0,0,0,0,0,0,Xishuangbanna Prefecture,43866,china,,Yunnan,,FALSE,,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Urumqi City,43855,china,43851,Xinjiang,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,"Yanliang District, Xi'an City",43866,china,43862,Shaanxi,,FALSE,female,pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Lam Tin,43865,china,43852,Hong Kong,,FALSE,male,breathing difficulty fever myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+65,0,0,0,0,0,0,1,0,0,0,Lingao County,43852,china,43846,Hainan,,FALSE,female,cough discomfort fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,0,,43863,china,43857,Tianjin,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,,43863,china,43851,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+75,0,0,0,0,0,0,0,1,0,0,,43863,china,43860,Tianjin,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,,43863,china,43855,Tianjin,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43865,japan,43861,Chiba Prefecture,,FALSE,female,breathing difficulty cough fever pneumonia,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43865,japan,43860,Chiba Prefecture,,FALSE,female,fever rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43866,japan,43854,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43866,japan,43854,Kyoto Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43867,,43858,Taiwan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43867,,43856,Taiwan,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+40s,0,0,0,0,0,0,0,0,1,0,,43867,,,Taiwan,,FALSE,female,chills fever rhinorrhoea sore throat wheezing,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,,43866,,,Taiwan,,FALSE,female,breathing difficulty cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+40,0,0,0,0,1,0,0,0,0,0,Narita Airport,43854,japan,43844,Tokyo,cured,2,male,fever pneumonia sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+30,0,0,0,1,0,0,0,0,0,0,,43845,japan,43833,Tokyo,cured,2,male,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,,43855,japan,43844,Tokyo,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Kuala Lumpur,43855,malaysia,,Wilayah Persekutuan Kuala Lumpur,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+2,1,0,0,0,0,0,0,0,0,0,Kuala Lumpur,43855,malaysia,,Wilayah Persekutuan Kuala Lumpur,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+11,0,1,0,0,0,0,0,0,0,0,Kuala Lumpur,43855,malaysia,,Wilayah Persekutuan Kuala Lumpur,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Kathmandu,43854,nepal,43839,,cured,2,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+66,0,0,0,0,0,0,1,0,0,0,Singapore General Hospital,43853,singapore,43851,,cured,2,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,National Centre for Infectious Diseases,43854,singapore,43851,,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+35,0,0,0,1,0,0,0,0,0,0,Incheon Airport,43850,south korea,43848,,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Gimpo Airport,43854,south korea,43840,,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,Taoyuan International Airport,43851,,43841,Taiwan,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+61,0,0,0,0,0,0,1,0,0,0,Bangkok,43842,thailand,43835,Bangkok Metropolis,,FALSE,female,chills fever headache sore throat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Bangkok,43854,thailand,43851,Bangkok Metropolis,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43855,malaysia,,Johor,cured,2,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Bangkok,,thailand,43850,Bangkok Metropolis,cured,2,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Hua Hin District,43855,thailand,,Prachuap Khiri Khan,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Seoul,43856,south korea,43852,Seoul,,FALSE,male,chills fever,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43856,japan,43853,Tokyo,,FALSE,male,fever joint pain pneumonia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,0
+68,0,0,0,0,0,0,1,0,0,0,Zunyi City,43868,china,43861,Guizhou,,FALSE,male,nausea vomiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Nagoya City,43876,japan,43874,Aichi Prefecture,,FALSE,female,fever headache,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Owariasahi City,43877,japan,43876,Aichi Prefecture,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Owariasahi City,43878,japan,,Aichi Prefecture,,FALSE,male,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Owariasahi City,43879,japan,43878,Aichi Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+50s,0,0,0,0,0,0,0,0,1,0,,43871,japan,43868,Chiba Prefecture,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+59,0,0,0,0,0,1,0,0,0,0,Huainan City,43856,china,43849,Anhui,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,"Longxi County, Dingxi City",43866,china,43858,Gansu,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+26,0,0,1,0,0,0,0,0,0,0,"Longxi County, Dingxi City",43866,china,43862,Gansu,,FALSE,female,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,"Baiyin District, Baiyin City",43866,china,43854,Gansu,,FALSE,male,dry throat fever sore throat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+24,0,0,1,0,0,0,0,0,0,0,"Ningxian County, Qingyang City",43866,china,43862,Gansu,,FALSE,male,fever rhinorrhoea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,"Longxi County, Dingxi City",43868,china,43851,Gansu,,FALSE,female,dry throat fatigue sore throat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,"Longxi County, Dingxi City",43868,china,43854,Gansu,,FALSE,female,dry mouth headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,"Longxi County, Dingxi City",43868,china,43851,Gansu,,FALSE,female,discomfort dry mouth dry throat fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+29,0,0,1,0,0,0,0,0,0,0,"Huating County, Pingliang City",43868,china,43860,Gansu,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+55,0,0,0,0,0,1,0,0,0,0,"Maiji District, Tianshui City",43869,china,43859,Gansu,,FALSE,female,discomfort pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Huating County, Pingliang City",43869,china,43862,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+1,1,0,0,0,0,0,0,0,0,0,"Huating County, Pingliang City",43869,china,43860,Gansu,cured,2,female,diarrhea,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+46,0,0,0,0,1,0,0,0,0,0,"Xigu District, Lanzhou City",43869,china,43866,Gansu,,FALSE,female,cough discomfort,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,"Huating County, Pingliang City",43870,china,43859,Gansu,,FALSE,female,pharyngalgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+23,0,0,1,0,0,0,0,0,0,0,"Zhuanglang County, Pingliang City",43870,china,43867,Gansu,,FALSE,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Qingcheng County, Qingyang City",43870,china,43864,Gansu,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+53,0,0,0,0,0,1,0,0,0,0,Gannan Prefecture,43873,china,43865,Gansu,,FALSE,female,cough dry mouth dry throat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+34,0,0,0,1,0,0,0,0,0,0,"Huating County, Pingliang City",43874,china,43871,Gansu,,FALSE,female,cough pleuritic chest pain,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+58,0,0,0,0,0,1,0,0,0,0,"Hezuo City, Gannan Prefecture",43874,china,,Gansu,,FALSE,female,chest distress cough dry mouth,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,"Chengguan District, Lanzhou City",43877,china,43868,Gansu,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43868,china,43858,Guangxi,,FALSE,male,cough fatigue fever nausea,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+65,0,0,0,0,0,0,1,0,0,0,Fangchenggang City,43860,china,43843,Guangxi,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,Fangchenggang City,43860,china,43858,Guangxi,,FALSE,female,fatigue fever,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,0
+26,0,0,1,0,0,0,0,0,0,0,Liupanshui City,43869,china,43860,Guizhou,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,"Tianzhu County, Qiandongnan Prefecture",43869,china,43866,Guizhou,good,1,male,cough fever sputum,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+68,0,0,0,0,0,0,1,0,0,0,Zunyi City,43868,china,43861,Guizhou,,FALSE,,nausea vomiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,Qianxinan Prefecture,43868,china,43859,Guizhou,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Seongnam-si,43870,south korea,,Gyeonggi,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Tsing Yi,43873,china,43864,Hong Kong,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+43,0,0,0,0,1,0,0,0,0,0,,43874,china,43859,Hong Kong,,FALSE,male,cough vomiting,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0
+67,0,0,0,0,0,0,1,0,0,0,Quarry Bay,43874,china,43861,Hong Kong,good,1,female,chills cough fever,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,,0
+37,0,0,0,1,0,0,0,0,0,0,Wan Chai,43874,china,43869,Hong Kong,good,1,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+50,0,0,0,0,0,1,0,0,0,0,Baotou City,43869,china,,Inner Mongolia,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Tongliao City,43869,china,,Inner Mongolia,,FALSE,female,cough fatigue fever,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Timisoara,43893,romania,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+49,0,0,0,0,1,0,0,0,0,0,Bucharest,43897,romania,,,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+73,0,0,0,0,0,0,0,1,0,0,Buzau,43899,romania,,,,FALSE,female,discomfort fever nausea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+60,0,0,0,0,0,0,1,0,0,0,Bucharest,43899,romania,,,,FALSE,male,aggressive pulmonary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+16,0,1,0,0,0,0,0,0,0,0,Timisoara,43894,romania,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,0,Suceava,43894,romania,,,,FALSE,male,chills fever,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,0
+51,0,0,0,0,0,1,0,0,0,0,Olt,43896,romania,,,asymptomatic,0,male,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Hunedoara,43896,romania,43895,,cured,2,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+52,0,0,0,0,0,1,0,0,0,1,East Coast Demerara,43901,guyana,,,deceased,4,female,hypertension kidney failure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Sao Paulo,43887,brazil,43885,Sao Paulo,cured,2,male,cough fever rhinorrhoea,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+32,0,0,0,1,0,0,0,0,0,0,Sao Paulo,43889,brazil,43888,Sao Paulo,cured,2,male,cough fever headache myalgia sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+13,0,1,0,0,0,0,0,0,0,0,Sao Paulo,43894,brazil,,Sao Paulo,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Barra Mansa,43895,brazil,,Rio de Janeiro,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Feira de Santana,43897,brazil,,Bahia,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Rio de Janeiro,43897,brazil,43895,Rio de Janeiro,,FALSE,female,cough fever nasal congestion,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+47,0,0,0,0,1,0,0,0,0,0,Divinopolis,43898,brazil,43895,Minas Gerais,,FALSE,female,discomfort rhinorrhoea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+27,0,0,1,0,0,0,0,0,0,0,Niteroi,43899,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+70,0,0,0,0,0,0,0,1,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+61,0,0,0,0,0,0,1,0,0,0,Rio de Janeiro,43899,brazil,,Rio de Janeiro,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+66,0,0,0,0,0,0,1,0,0,0,"Recife, Boa Viagem",43902,brazil,,Pernambuco,,FALSE,female,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+72,0,0,0,0,0,0,0,1,0,0,"Recife, Boa Viagem",43902,brazil,,Pernambuco,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+,1,0,0,0,0,0,0,0,0,0,Rio de Janeiro,43902,brazil,,Rio de Janeiro,,FALSE,,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+33,0,0,0,1,0,0,0,0,0,0,"Ferraz de Vasconcelos, Vila Solar",43902,brazil,43899,Sao Paulo,,FALSE,female,breathing difficulty fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+38,0,0,0,1,0,0,0,0,0,0,Ipatinga,43902,brazil,43890,Minas Gerais,,FALSE,female,cough fever sore throat,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+28,0,0,1,0,0,0,0,0,0,0,Sao Jose do Rio Preto,43903,brazil,,Sao Paulo,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+57,0,0,0,0,0,1,0,0,0,0,Joinville,43903,brazil,43898,Santa Catarina,,FALSE,male,fever headache myalgia sore throat,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,0
+44,0,0,0,0,1,0,0,0,0,0,Sao Jose do Rio Preto,43907,brazil,43902,Sao Paulo,,FALSE,male,fever headache myalgia,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Anapolis,43907,brazil,,Goias,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Vila Velha,43902,brazil,,Espirito Santo,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+42,0,0,0,0,1,0,0,0,0,0,Prado,43907,brazil,,Bahia,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+60,0,0,0,0,0,0,1,0,0,0,Campo Bom,43900,brazil,43890,Rio Grande do Sul,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Rio de Janeiro,43907,brazil,,Rio de Janeiro,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+54,0,0,0,0,0,1,0,0,0,0,Porto Alegre,43901,brazil,43897,Rio Grande do Sul,,FALSE,female,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+19,0,1,0,0,0,0,0,0,0,0,Porto Alegre,43902,brazil,43890,Rio Grande do Sul,,FALSE,female,cough fever headache myalgia sore throat weakness,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,,0
+69,0,0,0,0,0,0,1,0,0,0,Porto Alegre,43903,brazil,,Rio Grande do Sul,,FALSE,male,cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+64,0,0,0,0,0,0,1,0,0,1,San Carlos,43900,bolivia,43898,Santa Cruz,,FALSE,female,fever weakness,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Cochabamba,43903,bolivia,,Cochabamba,,FALSE,male,breathing difficulty headache rhinorrhoea weakness,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,,0
+30,0,0,0,1,0,0,0,0,0,0,Porongo,43910,bolivia,,Santa Cruz,,FALSE,male,headache myalgia rhinorrhoea weakness,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,,0
+38,0,0,0,1,0,0,0,0,0,0,,43917,bolivia,43914,Chuquisaca,,FALSE,male,cough fever weakness,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,,0
+56,0,0,0,0,0,1,0,0,0,0,,43894,chile,,Metropolitan Region,,FALSE,female,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,0,,43917,argentina,43915,Misiones,,FALSE,male,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+24,0,0,1,0,0,0,0,0,0,0,Cotorro,43931,cuba,,Havana,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+88,0,0,0,0,0,0,0,0,1,0,Habana del Este,43932,cuba,,Havana,,FALSE,male,kidney failure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+23,0,0,1,0,0,0,0,0,0,0,Buenos Aires,43895,argentina,,,,FALSE,male,cough fever myalgia,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+40,0,0,0,0,1,0,0,0,0,0,,43895,chile,43894,Metropolitan Region,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+58,0,0,0,0,0,1,0,0,0,0,,43896,chile,43895,Metropolitan Region,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+17,0,1,0,0,0,0,0,0,0,0,,43897,chile,43896,Metropolitan Region,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+20,0,0,1,0,0,0,0,0,0,0,Puerto Montt,43897,chile,43895,Los Lagos,,FALSE,female,breathing difficulty fever no_symptom,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,0
+39,0,0,0,1,0,0,0,0,0,0,Talca,43898,chile,,Maule,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+14,0,1,0,0,0,0,0,0,0,0,,43898,chile,43897,Metropolitan Region,,FALSE,male,breathing difficulty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0
+33,0,0,0,1,0,0,0,0,0,0,San Javier,43893,chile,43893,Maule,,FALSE,male,cough fever headache,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,0
+14,0,1,0,0,0,0,0,0,0,0,Vitacura,43900,chile,,Metropolitan Region,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+17,0,1,0,0,0,0,0,0,0,0,Vitacura,43900,chile,,Metropolitan Region,asymptomatic,0,female,no_symptom,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+,1,0,0,0,0,0,0,0,0,0,Guayaquil,43890,ecuador,,Guayas,,FALSE,female,fever,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0
+20s,0,0,0,0,0,0,0,0,1,0,Toronto,43884,canada,,Ontario,,FALSE,female,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+71,0,0,0,0,0,0,0,1,0,0,San Juan,43904,puerto rico,,,,FALSE,male,breathing difficulty cough fever,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,0
+60s,0,0,0,0,0,0,0,0,1,0,Toronto,43887,canada,,Ontario,,FALSE,female,cough fever myalgia sore throat,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,,0
+30s,0,0,0,0,0,0,0,0,1,0,Richmond Hill,43890,canada,,Ontario,,FALSE,female,breathing difficulty cough headache rhinorrhoea,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,0
+50s,0,0,0,0,0,0,0,0,1,0,Ajax,43890,canada,,Ontario,,FALSE,female,chills cough myalgia,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Ajax,43890,canada,,Ontario,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+60s,0,0,0,0,0,0,0,0,1,0,Toronto,43891,canada,,Ontario,,FALSE,male,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
