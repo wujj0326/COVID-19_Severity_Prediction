@@ -29,14 +29,15 @@ Sklearn
 ## Running the codes
 
 ```
-Run each section in the file named COVID_ver3.ipynb in the COVID folder. Each section in the notebook is labelled, and there are comments explaining the code.
+Run each section in the file named COVID_ver3.ipynb in the COVID folder. 
+Each section in the notebook is labelled, and there are comments explaining the code.
 ```
 
 ### Break down into end to end tests
 
-```
+
 First we read in the data and do exploratory data analysis to understand the data better. We looked at the missing values as the proportions of variables. Next, we did pre-processing in order to transform the severity levels into a binary variable. Then we begin building a logistic regression model and identify the feature importance of a severe case. After that we built a random forest model, and then compared multiple algorithms' accuracy scores in order to determine the best one. We then use clustering as a supervised model to identify the number of clusters, which is two that represent the target variable. Then we compare the true label and clustered label to calculate the accuracy. After seeing that Random Forest had the highest accuracy score, we tuned that model by altering the hyperparameters with the goal of improving the model. We evaluated the model with the best hyperparameters and then graphed the AUC curve and calculated the score. Lastly, we used the random forest predictive model to predict the severity level of 5 new patients and got the results.
-```
+
 
 The best model is `Random Foreser Classifier`\
 
