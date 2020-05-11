@@ -7,8 +7,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 File Name: COVID_ver3.ipynb
-Data: covid_sym.csv
 ```
+### Data
+
+The data can be accessed and read in using this link https://raw.githubusercontent.com/wujj0326/COVID-19_Severity_Prediction/master/covid_sym.csv
+
+It is also located in the COVID folder `covid_sym.csv`.
+
+`covid_ML_tranforming.xlsx` is for showing the steps of how we transformed the data bu using `Microsoft Excel` 
 
 ### Prerequisites
 
